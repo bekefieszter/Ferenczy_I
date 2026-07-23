@@ -128,15 +128,16 @@
                         után, aki éppen ekkor, májusban utazott száműzetése helyére,
                                 <placeName><idno type="KEMKI">Elba</idno></placeName>
                         szigetére.</note>” és este olajmécsek égtek rajta oly formán mint, ahogy a
-                    koporsót kiverik, és egy E betűn 40 mécs égett,
-                    sat<!--ezt megbeszélni Dottival  rövidítések-->. (Ezek voltak annak örömére,
-                    hogy a mi népünk <placeName><idno type="KEMKI">Páris</idno></placeName>
-                    városában beérkezett.<note type="critic">1814. elején a szövetségesek
-                        benyomultak <placeName><idno type="KEMKI"
-                        >Franciaországba</idno></placeName>, 1814. március 31-án <placeName><idno
-                                type="KEMKI">Párizs</idno></placeName> elesett. Ekkor gyakorlatilag
-                        eldőlt <persName><idno type="KEMKI">Napóleon</idno></persName>
-                        veresége.</note>)</p>
+                    koporsót kiverik, és egy E betűn 40 mécs égett, <choice>
+                        <orig>sat</orig>
+                        <supplied>satöbbi</supplied>
+                    </choice>. (Ezek voltak annak örömére, hogy a mi népünk <placeName><idno
+                            type="KEMKI">Páris</idno></placeName> városában beérkezett.<note
+                        type="critic">1814. elején a szövetségesek benyomultak <placeName><idno
+                                type="KEMKI">Franciaországba</idno></placeName>, 1814. március 31-án
+                                <placeName><idno type="KEMKI">Párizs</idno></placeName> elesett.
+                        Ekkor gyakorlatilag eldőlt <persName><idno type="KEMKI"
+                            >Napóleon</idno></persName> veresége.</note>)</p>
                 <p>Munkát kaphattam volna, de <placeName><idno type="KEMKI"
                         >Bécsbe</idno></placeName> lévén szándékom - másnap elindultam, és az
                     úton</p>
@@ -199,15 +200,15 @@
                 <p>N. B. Aztat is hallottam hogy <persName><idno type="KEMKI">Balas Károly
                         </idno></persName>valamely állásról leesvén keze és lába eltört.</p>
             </div>
-            <div><head>Címzés:</head><pb facs="691_20 (3).jpg" type="facsimile"/><placeName><idno
+            <div><head>Címzés:</head><pb facs="691_20 (3).jpg" type="facsimile"/><p><placeName><idno
                         type="KEMKI">Bécsből</idno></placeName> Szabad Privilegizált
                         <placeName><idno type="KEMKI">Rima-Szombat </idno></placeName>Városában
                 Lakozó <persName><idno type="KEMKI">Ferentzÿ István</idno></persName> Atyámuramnak
                 Fiúi tisztelettel ajánlom. a <placeName><idno type="KEMKI"
                     >Rima-Szombath</idno></placeName> in <placeName><idno type="KEMKI"
-                    >Ungarn</idno></placeName>. Probatio Calamis</div>
-            <p><note type="critic">Középkori okleveleken a hitelesítés (itt háromszor írták a
-                    lapra)</note></p>
+                    >Ungarn</idno></placeName>. Probatio Calamis
+           <note type="critic">Középkori okleveleken a hitelesítés (itt háromszor írták a
+                lapra)</note></p></div>
         </body>
     </text>
 </TEI>
