@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>FERENCZY ISTVÁN – id. FERENCZY ISTVÁN ÉS KÁLNAI MÁRIA (1816.08.18)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Békefi </surname>
+                        <forename>Eszter</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Békefi</surname>
+                        <forename>Eszter</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname/>
+                        <forename/>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Szemigán</surname>
+                        <forename>Dorottya</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Proofreader</resp>
+                    <persName>
+                        <surname/>
+                        <forename/>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>Szépművészeti Múzeum<ref type="url"
+                        >https://www.szepmuveszeti.hu/</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Szépművészeti Múzeum</orgName>
+                    <ref type="url">https://www.szepmuveszeti.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="URL">ferenczy.tei.</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A levél Huntéka azonosítója:<idno type="HuntékaID"/>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="hu"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">FERENCZY ISTVÁN – id. FERENCZY ISTVÁN ÉS KÁLNAI MÁRIA</head>
+                <head type="subtitle">(Bécs, 1816. augusztus 18.)</head>
+                <milestone unit="emptyLine"/>
+                <pb facs="697_20 (1).jpg"/>
+                <opener>
+                    <salute>Kedves Atyámuram s Anyámasszony!</salute>
+                </opener>
+                <milestone unit="emptyLine"/>
+                <p>Eleinte fognak kigyelmetek reszketni, midőn egy levelet Istvánjoktól olvasni
+                    fognak: hanem csendesítsék magukat, és a hírt ne képzeljék rosszabbaknak, mint
+                    amilyen. Már akkor is, midőn én azon szomorú elválás csókjai között ajkaikon
+                    csüggöttem a bánat zsoldja le volt fizetve: a mi őrző angyalaink, akik előtt a
+                    jövendő történetnek firhangja nyitva állott, mi mellettünk voltak, és egy
+                    kinevezhetetlen fájdalommal illettek bennünket. És hallják meg végre az
+                    üzenetet, hogy én pesti Medárd-vásáráig haza nem megyek; és tudósítom
+                    kigyelmeteket állapotom felől. </p>
+                <p>Július 20-án hozzám utasított leveleket megkaptam, amelyből értettem
+                    mindnyájuknak friss, jó egészségüket, ugyanezen a napon kaptam József öcsémnek
+                    utolsóbb levelét is, és most együtt írom ő neki is a választ. Ami a magam
+                    állapotját illeti, egészségem igen jó vagyon. Azon acélművesnek műhelyét
+                    mindeddig megtartottam. Nem azért, mintha jövendőre az efféle munkából akarnék
+                    odahaza valami plánumot csinálni, hanem, hogy könnyebb, mint a lakatosság és a
+                    maiszter is igen emberséges ember, a ruhámat sem nyövöm oly nagyon, s ételemre
+                    vagy </p>
+                <pb facs="697_20 (2).jpg" type="facsimile"/>
+                <p>italomra sem kell annyit kiadnom, mint az erős munka mellett. Újság igen kevés,
+                    vagy épen semmi sincs. Köszöntöm s tisztelem nagyanyámasszonyékat, Káposztás
+                    István sógor uramat, Maris és Susi nénémasszonyt és mindeneket, akik rólam jó
+                    emlékezettel vagynak, nemkülönben Pap István barátomat is;</p>
+                <milestone unit="emptyLine"/>
+                <closer>
+                    <salute>kigyelmeteket pedig ajánlom a kegyelmes Isten gondviselésére s maradok
+                        kigyelmeteknek hűséges és engedelmes fiuk:</salute>
+                    <signed><persName>Ferenczy István</persName></signed>
+                </closer>
+                <p>P. S. Ha levelet írnak, utasítsák a lakatos herbergre stb.</p>
+            </div>
+            <div>
+                <head>Címzés:</head>
+                <pb facs="697_20 (3).jpg" type="facsimile"/>
+                <p>Bétsből Szabad Privilegizált Rima Szombath Városában Lakozó Ferentzÿ István
+                    Atyámuramnak alázatos fiúi tiszteletem mellett ajánlom. a R.-Szombath </p>
+            </div>
+        </body>
+    </text>
+</TEI>

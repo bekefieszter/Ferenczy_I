@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>FERENCZY ISTVÁN – id. FERENCZY ISTVÁN ÉS KÁLNAI MÁRIA (1815.12.31.)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Békefi </surname>
+                        <forename>Eszter</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Békefi</surname>
+                        <forename>Eszter</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname/>
+                        <forename/>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Szemigán</surname>
+                        <forename>Dorottya</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Proofreader</resp>
+                    <persName>
+                        <surname/>
+                        <forename/>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>Szépművészeti Múzeum<ref type="url"
+                        >https://www.szepmuveszeti.hu/</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Szépművészeti Múzeum</orgName>
+                    <ref type="url">https://www.szepmuveszeti.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="URL">ferenczy.tei.</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A levél Huntéka azonosítója:<idno type="HuntékaID"/>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="hu"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">FERENCZY ISTVÁN – id. FERENCZY ISTVÁN ÉS KÁLNAI MÁRIA</head>
+                <head type="subtitle">(Bécs, 1815. december 31.)</head>
+                <milestone unit="emptyLine"/>
+                <pb facs="695_20 (1).jpg"/>
+                <opener>
+                    <salute>Kedves Atyámuram és Anyámasszony!</salute>
+                </opener>
+                <milestone unit="emptyLine"/>
+                <p>Egy valami nyughatatlan ösztön kényszerítvén szívemet és hogy háladatos buzgó
+                    indulatimat kiönthessem s késedelmem az esztendőből az újra ne menjen,
+                    decembernek utolsó napján mintegy három és négy óra között felébredtem s azonnal
+                    pennámhoz kaptam felelni, a még szeptember 3-án hozzám utasított levelekre és
+                    egyszersmind Józseftől is Kassáról csakugyan egyszer (november 28.) levelet
+                    kapván, ő néki is valamit írjak és állapotomról tudósítást tegyek. Tehát:</p>
+                <p>Én most ez idő szerint friss, jó egészségben vagyok, melyhez hasonlót
+                    kigyelmeteknek is kívánok. Semmi különös viszontagságok nem nyomják vállamat: de
+                    egy különös tűz vagyon még mostan is bennem, a Mesterség szeretete és nagyobbra
+                    való vitele miatt, melynek elegendő hasznát, ha veszem-e, magam is gyanús
+                    vagyok; de én nem hagyván magamat megszomorítani, annyival inkább ijeszteni,
+                    csak tanulgatok. (Bár sokak mellettem boldogabbul élnek, de azok nem tudják, mi
+                    az igaz boldogság). Az Istennek sok különös utai vagynak, amelyeken vezérel
+                    egyet így, a mást amúgy. Ifjúságomban kell megvetnem boldogságom fundamentumát,
+                    hogy sok ideig felmaradhasson. Mostani majszterom egy </p>
+                <pb facs="695_20 (2).jpg" type="facsimile"/>
+                <p>ún. acélműves (Stahl arbeiter). Igen emberséges evangélikus ember és nagy
+                    kedvességbe vagyok maga és háza népe előtt; munkánk azok az acél óraláncok,
+                    acélgombok, acélból készült spáda markolatok, acél gyöngyökkel kirakva, melynek
+                    ára 6, hét, nyonszáz aranyakra is felmégyen. Emellett énnekem az az egy különös
+                    szerencsém, hogy minden nap két órát az Akadémiára mehetek, anélkül, hogy
+                    keresetemben valami fogyatkozást szenvednék.</p>
+                <p>Ily igyekezet mellett talán sokat is ígér magának ifjúi nagyravágyó gondolatom,
+                    annyival is inkább, mivel teljes szándékkal csak r.szombati lakos akar lenni,de
+                    hiszem már, az bármint üssön is ki, engem azért nagyon meg nem tántorít.</p>
+                <p>Semmi különös újságnak írásával nem kedveskedhetem olyassal, hanem, hogy
+                    Swartzenberg a mostani legfőbb Feldmarschalunk már régen hazajött a háborúból,
+                    és sok regementek itten keresztül masíroznak, akik a háborúból visszajöttek. A
+                    császár Olaszországban, Mantovába van.</p>
+                <p>Ferenczy Sámuel ezelőtt kilenc héttel idejött, négy hétig munkába volt, de neki
+                    itten nem tetszett, ismét vissza Magyarországba ment, hová-hová nem, azt nem
+                    tudom, mivel elválásunkkor maga sem tudta megmondani.</p>
+                <p>Itt a tél magát igen korán elkezdette, és ezelőtt 3 s 4 héttel már kemény idők
+                    jártak, úgyhogy imitt-amott az utakon mintegy öt személy meg is fagyott.
+                    Némelyek a nagy fuvatagokban befúltak.<milestone unit="emptyLine"/></p>
+                <p>24-én itt megkapott berlini újság írja, hogy Danzigba egy puskaporos torony
+                    felgyulladt, amelyben volt mintegy 30 mázsa puskapor, sok kartács, golyóbisok,
+                    gránátok, és ezek mind összegyulladván, a városba (ahol éppen vásár volt)
+                    tetemes károkat tett, mintegy 700 házakat lerontott, 400 embereket, ezeken kívül
+                    barmokat megölt; a levegő megszorulása és a föld reszketése miatt a harangok
+                    magokba harangoztak s több efféle rémítő dolgokat szerzett.</p>
+                <p>Detsy doktor úr még most is igen beteges és az én gondolatom szerint, ha szinte
+                    húzza is, jobban sohasem lesz. Valahányszor hozzámegyek, köszönteti
+                    kigyelmeteket.</p>
+                <p>Ezeknek jelentések, s híradások mellett köszöntöm Káposztás István sógor uramat,
+                    Maris és Susi nénémasszonyt, János öcsémet, Pap István barátomat és mindeneket,
+                    valakik rólam jó emlékezettel vagynak.</p>
+                <milestone unit="emptyLine"/>
+                <closer>
+                    <salute>Kegyelmeteket pedig ajánlom a kegyelmes Isten gondviselésére s maradok
+                        Bécsben kegyelmeteknek hűséges és engedelmes fiuk </salute>
+                    <signed><persName>Ferenczy István</persName></signed>
+                </closer>
+                <p>A levél írásba egy nagy hibát tettem, de az idő szűk volta nem engedte, hogy
+                    másként írjam.</p>
+                <p><anchor
+                        xml:id="József öcsémnek írják meg, hogy épen ezen a napon küldök ő neki is egy levelet Kassára, ha meg nem kapja, keresse a postán._1"
+                    /></p>
+            </div>
+        </body>
+    </text>
+</TEI>

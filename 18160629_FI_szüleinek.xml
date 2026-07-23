@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>FERENCZY ISTVÁN – id. FERENCZY ISTVÁN ÉS KÁLNAI MÁRIA (1816.06.29.)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Békefi </surname>
+                        <forename>Eszter</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Békefi</surname>
+                        <forename>Eszter</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname/>
+                        <forename/>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Szemigán</surname>
+                        <forename>Dorottya</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Proofreader</resp>
+                    <persName>
+                        <surname/>
+                        <forename/>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>Szépművészeti Múzeum<ref type="url"
+                        >https://www.szepmuveszeti.hu/</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Szépművészeti Múzeum</orgName>
+                    <ref type="url">https://www.szepmuveszeti.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="URL">ferenczy.tei.</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A levél Huntéka azonosítója:<idno type="HuntékaID"/>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="hu"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">FERENCZY ISTVÁN – id. FERENCZY ISTVÁN ÉS KÁLNAI MÁRIA</head>
+                <head type="subtitle">(Bécs, 1816 június 29.)</head>
+                <milestone unit="emptyLine"/>
+                <pb facs="696_20 (1).jpg"/>
+                <opener>
+                    <salute>Kedves Atyámuram s Anyámasszony!</salute>
+                </opener>
+                <milestone unit="emptyLine"/>
+                <p>Fiúi hűségemnek megbizonyítására foglalatosságim egy kevés időt engedvén,
+                    pennámhoz nyúlok, hogy kigyelmeteknek tudósítást tehessek ez idő szerint való
+                    állapotomról és felőlem való nyughatatlanságukat megnyugtassam. Mivel talán
+                    rosszul is gondolkoznak felőlem, hogy erkölcsiségem valamely romlást szenvedett,
+                    ezen egész Magyarországon kilármázott városba, Bécsbe. Tehát: </p>
+                <p>Én ez idő szerint igen jó egészségben vagyok, melyhez hasonlót kigyelmeteknek is
+                    kívánok, állapotim tűrhetők. Munkába vagyok még most is annál az acélművesnél,
+                    akiről tudósítást tettem. Az Akadémiába való járást február 19-én felhagytam,
+                    mivel plánumomnak jó kimenetelét nem láthattam. Azonban akárhogy, akármint,
+                    annyit nem kereshettem, mint más, mivel haszontalan időt töltöttem és holmi
+                    egyre s másra sok pénzt kelletett napról-napra költenem, s József öcsémtől is
+                    február 25-én egy tudósítást kaptam, amelyben ő is csak ilyforma argumentiókkal
+                    írt állapotom felől, mint én itt ide feljebb megírtam, s ekképen gondolatomat
+                    pontban eltalálta, s búcsú-</p>
+                <pb facs="696_20 (1).jpg" type="facsimile"/>
+                <p>vételemet az Akadémiától épen meg nem bántam s azután vettem is észre, hogy
+                    napról-napra javul állapotom és annak utána darabra kezdettem dolgozni s most is
+                    dolgozom, melyből reménylem (jóllehet a mindennapi költség sokra megy), hogy
+                    tavaszra egy darab tisztességes ruhát összehozhatok s ekkor haza fogok menni.
+                    Újsággal igen kevéssel szolgálhatok. A császár e folyó honapnak 16-án Bécsbe
+                    több mint esztendei távollétele után megérkezett. Június 16-án láttam először a
+                    palatinus feleségét. Református lévén, a r.tus templomban. Nemkülönben herceg
+                    asszonyságának anyját, a princ Károly feleségét és ennek anyját. A császárné
+                    halála, már gondolom, rég tudtok vagyon, nemkülönben a Detsy doktor úré is,
+                    akinek hideg tetemét nem láttam. Sőt Cseh Sándornak is akkor adott hírt a
+                    felesége, mikor már egy óra múlva kivitetett. Azóta már egyszer felkerestem a
+                    feleségét, sírva panaszoskodott sorsai felől.</p>
+                <p>Ezelőtt egynéhány hetekkel egy patent jött ki a pénz mivolta felől, de még a
+                    dolgot nem egészen érthetni, hanem egy más patentnak kell jönni, de az mához egy
+                    hétre, egy hónapra, esztendőre vagy három esztendőre jön ki, az nem bizonyos. Az
+                    az egy bizonyos, hogy rézpénz fele árára vétetik. 6 kr 3 kr., 3 kr. egy
+                    polturára, 2 kr. 1 kr. stb. Akiknek summásan ezüst pénzük volt, azok károsodnak,
+                    mert akinek a télen 300 Rft. ezüstben, akkor eladta volna papíros pénzért, most
+                    azért az papíros pénzért 400 Rff.-nél több ezüstpénzt kaphatna érette; és most
+                    is mindennap alább-alább vész az ezüstnek a bécsi. 100 Rflor. huszas pénzt lehet
+                    venni 258 Rflor. papíros pénzért. <milestone unit="emptyLine"/></p>
+                <p>Ezek után köszöntöm az egész atyafiságot, különösen nagyanyámasszonyékat,
+                    Káposztás sógor uramat, Maris és Susi nénémasszonyékat, János és József
+                    öcséimet, Pap István barátomat. Kigyelmeteket pedig ajánlom a jó Istennek
+                    gondviselésére és arról engedelmet kérek, hogy ha a levélírással sokat késtem. </p>
+                <milestone unit="emptyLine"/>
+                <closer>
+                    <salute>Kezeiket csókolom és legyenek az engemet szerető szüleim, mint én is
+                        hűséges és engedelmes fiok </salute>
+                    <signed><persName>Ferenczy István</persName></signed>
+                </closer>
+                <p>P.S. János öcsémhez, ha még Rozsnyón volna, írják megneki, hogy hagyja oda, ha
+                    hogy valamiképen vagy fizetésében, kosztjában vagy tanulásában csonkulást
+                    szenvedne és menjen valamelyik nagy város felé. </p>
+                <p>József öcsémnek szerettem volna írni, de most holléte is bizonytalan lévén,
+                    felőle vagy kigyelmetek írják meg, hogy hol és hogy van, mivel februári
+                    levelében írta, hogy aratáskor Patakra le fog menni. </p>
+                <p>A levelet mindenkor titulálják a Salzgries-utczában No.218 levő lakatos
+                    herbergre, F. I. stb.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>FERENCZY ISTVÁN – FERENCZY JÓZSEF (1816.08.15)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Békefi </surname>
+                        <forename>Eszter</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Békefi</surname>
+                        <forename>Eszter</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname/>
+                        <forename/>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Szemigán</surname>
+                        <forename>Dorottya</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Proofreader</resp>
+                    <persName>
+                        <surname/>
+                        <forename/>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>Szépművészeti Múzeum<ref type="url"
+                        >https://www.szepmuveszeti.hu/</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Szépművészeti Múzeum</orgName>
+                    <ref type="url">https://www.szepmuveszeti.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="URL">ferenczy.tei.</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A levél Huntéka azonosítója:<idno type="HuntékaID"/>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="hu"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">FERENCZY ISTVÁN – FERENCZY JÓZSEF</head>
+                <head type="subtitle">(Bécs, 1816. augusztus 15. )</head>
+                <milestone unit="emptyLine"/>
+                <pb facs="557_20 (1).jpg"/>
+                <opener>
+                    <salute>Kedves Öcsém! </salute>
+                </opener>
+                <milestone unit="emptyLine"/>
+                <p>Csak muszáj még egy levelet írnom, minekelőtte Kassát odahagyod, amelybe
+                    nyughatatlanságodat valamennyire csendesítsem, mely is kezedbe kerülvén,
+                    reszkető kezekkel fogod (a dolognak világosságát várván) olvasni és halld meg
+                    mindenekelőtt a választ, hogy én pesti Medárd vásáráig Bécsben maradok és
+                    továbbá tudósítalak röviden holmi egy s más dolgokról. </p>
+                <p>Én (amint a télen írt levelemből értetted) az Akadémiába való járást gyakorlottam
+                    és még benne szép lépéseket is tettem, de mindazonáltal planumom jó kimenetelét
+                    nem várhattam. Jóllehet én írtam, hogy keresetem vesztése nélkül; de mint
+                    darabra dolgozó legény csakugyan a magam idejét vesztegettem. Azonban az
+                    akadémiában is sok aprólékos költségeim estek, amelyek végre egy summát tettek
+                    és ha prémiumért való Gravieurozást felvállaltam volna is, olyanokkal kellett
+                    volna kiszállnom, akik kicsinységüktől fogva az Akadémiában nevelkedtek és öt s
+                    hat esztendővel ezelőtt már az viasz-bosszirozásból prémiumot nyertek, amelyet
+                    én a múlt novemberben kezdettem el tanulni (mivel ez a fő fundamentuma a
+                    gravieurozásnak) és már januárban alá kellett volna írnom magamat, mivel
+                    esztendő vagyon rendelve egy oly darab munkának elkészítésére; és utolszor az
+                    idei </p>
+                <pb facs="557_20 (2).jpg" type="facsimile"/>
+                <p>prémium nem is oly nagy, mint a múlt esztendei, valami nyolc aranyat tesz ki, s a
+                    te februárban írt leveled is elérkezvén, s abból is csak efféle sovány
+                    vigasztalásokat kaptam, s az akadémiába való járással felhagytam. Azon
+                    acélművesnek műhelyét mindezideig megtartottam és nincsen is szándékom
+                    változtatni mindaddig, míg csak Bécsben maradok. Nem azért, mintha az acélmívből
+                    jövendőre valami plánumot akarnék csinálni, hanem, hogy jobb keresetem vagyon,
+                    mint egyebütt akármely lakatosnál, és nem is kell magamat annyira strapacírozni,
+                    mint egyebütt, melyre nézve reményem, hogy ebben az esztendőben helyrehozhatom
+                    azt, amit más két esztendőben elmulattam, s a jövő tavaszon és nyáron az élet
+                    bajaihoz fogok látni. Egészségem most ez idő szerint jó vagyon, állapotim
+                    kedvezők, barátim nyájasok és sokak, (ha ugyan szabad néminemű részben alattam
+                    valóknak nevezni) hízelkedők, kedvemet vadászók; az uram s háza népe engemet egy
+                    első tekintetbe tartó; egyszóval ez az esztendő egy oly vidám orcával virradt
+                    felreám és folytatja magát, hogy dicséretére tőlem egy templomot rajzolni
+                    érdemes, a melynek közepére – 1816 – beírjam örökemlékezetre, s ekképen jöhető
+                    viszontagságaim között is ezen darabra tekintvén vagy gondolván, néminemű
+                    vigaztatást szerezzen, mivel e világ csak egy játéknéző ház. <milestone
+                        unit="emptyLine"/></p>
+                <p>Tudósítottál júniusi leveledben arról is, hogy szeptember elsejére Patakra be
+                    fogsz menni, amelyet helybe is hagyok. Ne szűnj meg soha is szorgalmatos lenni,
+                    a virtust és a jót szeressed, de erre ezt felelhetnéd : „Nem, bácsi, a te
+                    virtusaidnak alkotmánya nem fog nekem többé tetszeni, a te tanításod igen
+                    fagyos, és én kötelesnek tartom magamat megmondani bácsinak, hogy sokkal
+                    hidegebb vérűnek kell lenni, a jó és rossz között valóválasztásban. Ha – hogy a
+                    virtus a fő helyen megállhasson, úgy kellene egész erővel feltartani. Nyalánk
+                    szelek és kedvesnapok elolvasztják a jégtornyokat. Ah! Bácsi: a virtus már igen
+                    ritka, olyan ritka, hogy már az egy csudává változott; az ember csak elbámul,
+                    midőn egy virtusos embert talál, holott a rosszon kellene elbámulni, mint valami
+                    természetbe történt rendetlenségen, és hányat tartunk mi virtusosnak, akik
+                    valóban nem azok. És oly adakozók vagyunk ezzel a névvel, valaki csak tőlünk
+                    kívánja, világi tudós, génius, szerző, vitéz. De tegye, aki akarja, én nem
+                    akarok egy hízelkedő lenni, segélje akárki rosszaknak kerekét szentekké tenni!
+                    Én nekem nincs jussomba a virtusi nevet ócsárolni, és vájjon hiba-e az, ha én
+                    egy majmot majomnak, egy tigrist tigrisnek nevezek. Az embereknek pedig a
+                    természetet és a nevet egészen megfordítsuk és bolondot tudósnak, egy gonoszat
+                    virtusosnak nevezzünk. Nem. – Értem én az erkölcsisebb világ beszédjét </p>
+                <pb facs="557_20 (3).jpg" type="facsimile"/>
+                <p>és maradok azoknál a köz- és együgyű szólásoknál, amelyeket az én atyámnak
+                    szájából hallottam, egy parasztot nevezek én parasztnak, egy csalót csalónak
+                    stb.</p>
+                <p>Ez az erkölcsiség ugyan egy kicsinyt kormos: de csak ami világunkba. Az mindenkor
+                    becsületemre fog nékem szolgálni, ha ők engemet durvának, emberek ellenségének
+                    neveznek, mert a csapodárok ellen egy oly örökös gyűlölségre esküdtem, mint
+                    Hannibal a rómaiak ellen. És ha gyenge vagyok is az eszteleneknek és gonoszoknak
+                    ijesztésükre, legalább szavammal akarom őket marszongni, és alkalmatosságot
+                    keresek az ő alacsony lelkűségüket szemekre hányni. Ezek az én gondolatim, ezen
+                    a fundamentumon neveltettem és mint gyermek erre gyakoroltattam, mint egy ifjú
+                    helyeseknek találtam és mint ősz, semmi új életreguláját nem választok.
+                    Szánakozz, bácsi, ne én rajtam, hanem szánakozz azokon, akik engemet lenyomnak.
+                    A gonosz könyörületességet érdemel, a virtusosnak elébb van igazsága, ha szintén
+                    legmélyebben lenyomattatott is, figyelmetességet kívánni. Ezeket úgy írtam ide,
+                    mintha te mondanád; én pedig ezt felelem reá, hogy ne légy oly nagyon a magad
+                    ellensége, aki az emberek hibáján annyira bosszankodnál és azoknak a
+                    megjobbításokért a magad tulajdon nyugodalmát rontanád, a Virtus meg fogja
+                    érdemelni, ha te magad érette egy áldozat leszel, mivel a virtust e világ csak
+                    egynehányaknak teszi hasznára. </p>
+                <milestone unit="emptyLine"/>
+                <closer>
+                    <salute>Ezek után légyjó egészségben és élj szerencsésen s maradj az engemet
+                        szerető öcsém, mint én is a titeket szerető bátyátok</salute>
+                    <signed><persName>F. I</persName></signed>
+                </closer>
+                <p><anchor xml:id="textDir_1"/>Csordás János köszönt, Sütő pedig Pozsonyban
+                    vagyon.</p>
+                <p>Feltétetett a postára augusztus 18-án.<anchor xml:id="textDir_1"/>Köszöntsd János
+                    öcsémet is és becsülöm benne, hogy Rozsnyót odahagyta. Mondd meg néki, hogy
+                    írjon minél előbb világosan állapotja felől, amelyet te is, Patakra megérkezvén,
+                    el ne mulass, az adresst hagyd meg Jánosnál is írásba, amely legyen a lakatos
+                    herbergre stb. mint másszor.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
