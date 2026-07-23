@@ -87,28 +87,34 @@
                 <milestone unit="emptyLine"/>
                 <pb facs="694_20 (1).jpg"/>
                 <opener>
-                    <salute>Kedves Atyámuram és Anyámasszony!</salute>
+                    <salute>Kedves <persName><idno type="KEMKI">Atyámuram</idno></persName> és
+                                <persName><idno type="KEMKI"
+                        >Anyámasszony</idno></persName>!</salute>
                 </opener>
                 <milestone unit="emptyLine"/>
                 <p>Csak vonakodva kezdek a már oly régen halasztgatott levelemhez még most is, mivel
                     hol egy, hol más reménység táplálgatván, mindenkor csak úgy gondolkodtam, hogy a
-                    posta magam fogok lenni; de most Csordás János levelet kapván, amelyből
-                    megértettem, hogy már ittlétem felől is gyanúsak, minden haladék nélkül
-                    pennámhoz nyúlok és tudósítom állapotom és mivoltom felől.</p>
-                <p>Az utolsó levelemben szinte húsvéttájban írtam bőven a Koháryval való dolgomról,
-                    de most röviden csak azt írom, hogy abból éppen semmi sem lett. Másodszor meg
-                    február 23-án hozzám a delizsánszon utasított leveleket szinte júliusnak a
-                    végefelé kezemhez kaptam, amelyben való tudósításokra felelni már készülődtem és
-                    máskor csak a postára tegyék, ha levelet írnak s titulálják a lakatos herbergre
-                    a 218 numerus alá, úgy legfeljebb nyolcad nap alatt bizonyosan megkapom. Vettem
-                    a Halas András bátyám uramtól írt levelet is, köszönöm rólam való
-                    megemlékezését. A többek között írták azt is kigyelmetek, hogy Josef öcsém
-                    levelet írt volna már hozzám azóta, mióta itt vagyok, de én nem kaptam s most
-                    gon-</p>
+                    posta magam fogok lenni; de most <persName><idno type="KEMKI">Csordás János
+                        </idno></persName>levelet kapván, amelyből megértettem, hogy már ittlétem
+                    felől is gyanúsak, minden haladék nélkül pennámhoz nyúlok és tudósítom állapotom
+                    és mivoltom felől.</p>
+                <p>Az utolsó levelemben szinte húsvéttájban írtam bőven a <persName><idno
+                            type="KEMKI">Koháryval</idno></persName> való dolgomról, de most röviden
+                    csak azt írom, hogy abból éppen semmi sem lett. Másodszor meg február 23-án
+                    hozzám a delizsánszon utasított leveleket szinte júliusnak a végefelé kezemhez
+                    kaptam, amelyben való tudósításokra felelni már készülődtem és máskor csak a
+                    postára tegyék, ha levelet írnak s titulálják a lakatos herbergre a 218 numerus
+                    alá, úgy legfeljebb nyolcad nap alatt bizonyosan megkapom. Vettem a
+                            <persName><idno type="KEMKI">Halas András</idno></persName> bátyám
+                    uramtól írt levelet is, köszönöm rólam való megemlékezését. A többek között
+                    írták azt is kigyelmetek, hogy <persName><idno type="KEMKI"
+                        >Josef</idno></persName> öcsém levelet írt volna már hozzám azóta, mióta itt
+                    vagyok, de én nem kaptam s most gon-</p>
                 <pb facs="694_20 (2).jpg" type="facsimile"/>
                 <p>dolván, hogy talán úgy is odahaza van, írjon minél előbb levelet és írja meg
-                    állapotját, s hogyha én levelet írok, hova és hogy tituláljam. János öcsémről
-                    is, sőt közönségesen mindnyájukról minél előbb tudósítsanak.</p>
+                    állapotját, s hogyha én levelet írok, hova és hogy tituláljam. <persName><idno
+                            type="KEMKI">János</idno></persName> öcsémről is, sőt közönségesen
+                    mindnyájukról minél előbb tudósítsanak.</p>
                 <p>A mi a magam állapotját illeti, én mindig friss, jó egészségben vagyok, semmi
                     olyas fogyatkozásim ezidő szerint nincsenek, csak ha jövendő dolgaimra s
                     hazamenetelemre gondolok, akkor szinte megmerevedve ellankadok, melyre nézve
@@ -118,34 +124,49 @@
                     fogok menni. </p>
                 <p>Újságoknak írásával kívánnék kedveskedni, de itt sem az írott újságokból, sem
                     hallomásból igen keveset vagy épen semmit sem lehet kivenni. Május 27. és 28.
-                    éjszakáján az ausztriai császár, a muszka császár, a burkus király, a princekkel
-                    együtt innen Bécsből kimozdultak és június 4-én Neapolnak megnyerésére Te Deum
-                    Laudamus tartatott; ismét június 25-én Te Deum L… és már azóta voltak a
-                    császárok Párisban is, de a városban a burgerek, az idegen és a hazai katonák
-                    között nagy revolúció támadván, ismét kivonultak, mivel <milestone
-                        unit="emptyLine"/></p>
-                <p>ekkor oly nagy veszedelem volt Párisba (amint hallatszik), hogy ki nem lehet
-                    írni. Midőn egy lakos a másikat, egyik barát barátjára, egyik katona más
-                    katonatársára támadván, egymást ölte, vágta, pusztította. A katonaság egész
-                    Bécsből úgy kitakarodott, hogy maguknak a burgereknek kell strázsát állani. A
-                    burkus királyról hallatszik, hogy sok és tetemes károkat vallott.</p>
-                <p>Ezeknek híradások és jelentések mellett köszöntöm nagyanyámasszonyékat, Káposztás
-                    sógor uramat, nénémasszonyokat, Pap István barátomat, az öcséimet s mindeneket,
-                    valakik rólam jó emlékezettel vagynak. </p>
+                    éjszakáján az <persName><idno type="KEMKI">ausztriai császár</idno></persName>,
+                    a <persName><idno type="KEMKI">muszka császár</idno></persName>, a
+                            <persName><idno type="KEMKI">burkus király</idno></persName>, a
+                    princekkel együtt innen <placeName><idno type="KEMKI">Bécsből</idno></placeName>
+                    kimozdultak és június 4-én <placeName><idno type="KEMKI"
+                        >Neapolnak</idno></placeName> megnyerésére Te Deum Laudamus tartatott; ismét
+                    június 25-én Te Deum L… és már azóta voltak a császárok <placeName><idno
+                            type="KEMKI">Párisban</idno></placeName> is, de a városban a burgerek,
+                    az idegen és a hazai katonák között nagy revolúció támadván, ismét kivonultak,
+                    mivel <milestone unit="emptyLine"/></p>
+                <p>ekkor oly nagy veszedelem volt <placeName><idno type="KEMKI"
+                        >Párisba</idno></placeName> (amint hallatszik), hogy ki nem lehet írni.
+                    Midőn egy lakos a másikat, egyik barát barátjára, egyik katona más katonatársára
+                    támadván, egymást ölte, vágta, pusztította. A katonaság egész <placeName><idno
+                            type="KEMKI">Bécsből</idno></placeName> úgy kitakarodott, hogy maguknak
+                    a burgereknek kell strázsát állani. A <persName><idno type="KEMKI">burkus
+                            királyról</idno></persName> hallatszik, hogy sok és tetemes károkat
+                    vallott.</p>
+                <p>Ezeknek híradások és jelentések mellett köszöntöm <persName><idno type="KEMKI"
+                            >nagyanyámasszonyékat</idno></persName>, <persName><idno type="KEMKI"
+                            >Káposztás</idno></persName> sógor uramat, <persName><idno type="KEMKI"
+                            >nénémasszonyokat</idno></persName>, <persName><idno type="KEMKI">Pap
+                            István</idno></persName> barátomat, az <persName><idno type="KEMKI"
+                            >öcséimet</idno></persName> s mindeneket, valakik rólam jó emlékezettel
+                    vagynak. </p>
                 <milestone unit="emptyLine"/>
                 <closer>
                     <salute>Kigyelmeteket pedig a kegyelmes Isten gondviselésére ajánlván, kezeit
                         csókolom és maradok kegyelmeteknek hűséges és engedelmes fiok </salute>
                     <signed><persName>Ferenczy István. </persName></signed>
                 </closer>
-                <p>P. S. Ezen levelemre való válaszokat alázatosan kikérem, kivált János és József
-                    öcsémről való tudósításokat.</p>
+                <p>P. S. Ezen levelemre való válaszokat alázatosan kikérem, kivált <persName><idno
+                            type="KEMKI">János</idno></persName> és <persName><idno type="KEMKI"
+                            >József</idno></persName> öcsémről való tudósításokat.</p>
             </div>
             <div>
                 <head>Címzés:</head>
                 <pb facs="694_20 (3).jpg" type="facsimile"/>
-                <p>Bétsből Szabad Privilegizált Rima-Szombath Városában Lakozó Ferentzÿ István
-                    Atyámuramnak alázatos fiúi tiszteletem mellett ajánlom. a Rima-Szombath</p>
+                <p><placeName><idno type="KEMKI">Bétsből</idno></placeName> Szabad Privilegizált
+                            <placeName><idno type="KEMKI">Rima-Szombath</idno></placeName> Városában
+                    Lakozó <persName><idno type="KEMKI">Ferentzÿ István
+                    </idno></persName>Atyámuramnak alázatos fiúi tiszteletem mellett ajánlom.
+                            a<placeName><idno type="KEMKI"> Rima-Szombath</idno></placeName></p>
                 <p><seg type="handShift"
                         corresp="Szabad Tsászári Királyi Béts városában 218dik Nrs alatt levő Lakatos Herberkhez Dolgozó Lakatos Ferentzy István Fiamnak atyai szeretetbűl ajánlom"
                     /></p>

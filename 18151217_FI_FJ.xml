@@ -87,7 +87,7 @@
                 <milestone unit="emptyLine"/>
                 <pb facs="556_20 (1).jpg"/>
                 <opener>
-                    <salute>Kedves Öcsém! </salute>
+                    <salute>Kedves <persName><idno type="KEMKI">Öcsém</idno></persName>! </salute>
                 </opener>
                 <milestone unit="emptyLine"/>
                 <p>Már több ízben hozzám utasított leveleid közül egyet, tudniillik a november 29-én
@@ -114,24 +114,34 @@
                     hanem ez idő szerint meg vagyok elégedve. Az akadémiába való munkám pedig most a
                     viaszból való figurák formálása és ha ezt valami ideig folytathatom, ércbe való
                     metszése, melyet ha vagy esztendeig szerencsésen folytathatnék, és a szerencse
-                    jól kezemre szolgálna, egy prémiumot talán csinálhatnék, amelynek a bére 400
-                    Rfr. folyó pénzben és egy Numizma lenne. (Gondold meg, kedves öcsém, micsoda
-                    nagy becsület lenne ez énreám és micsoda képzelődésekkel kecsegteti egy ifjú
-                    ember a maga érzékenységeit) de itt csak az a jó, írtam csak talánnal, mert
+                    jól kezemre szolgálna, egy prémiumot talán csinálhatnék, amelynek a bére 400 <choice>
+                        <orig>Rfr.</orig>
+                        <supplied>rajnai forint</supplied>
+                    </choice> folyó pénzben és egy Numizma lenne. (Gondold meg, kedves öcsém,
+                    micsoda nagy becsület lenne ez énreám és micsoda képzelődésekkel kecsegteti egy
+                    ifjú ember a maga érzékenységeit) de itt csak az a jó, írtam csak talánnal, mert
                     különben magad is megnevezhetnéd írásomat; és másodszor talán tavasszal haza is
                     kell látnom, mert a szüleim sorsa szomorítja szívemet, harmadszor Non datur ad
                     Musas. </p>
                 <p>Tapasztalásaimat világosan megírni sok időbe telne, egyszóval, amelyekre
                     leveledben emlékeztettél, semmit is el nem mulattam, de a feldmarschalokról azt
                     jegyzem meg, hogy azok nem hagyták magukat közönséges helyen látni, hanem a
-                    muszka császárt, burkus királyt, a dániai, bavariai, würtenbergi királyokat,
-                    Velingtont, Swarzenberget, az utolsót nevezetesen ma is láttam. (december 17).
-                    Egy regement dragonyos innen elmasírozván, azokat elkisértette. A nevezetesebb
-                    helyek, ahol egykor s máskor beférkeztem, először az u. n. Kunst Gallerie,
-                    amelyben sok nevezetes dolgokat láttam, mind a mostani, mind pedig ezer, kétezer
-                    esztendős mesterek műveit. Nevezetesen láttam egy kezet, amely ha felhúzódott,
-                    mint egy óra, írt magába. Láttam egy kitöltött kis madarat, mely egy kalitkába
-                    mintha be volt volna zárva, ha felhúzták, <milestone unit="emptyLine"/></p>
+                            <persName><idno type="KEMKI">muszka császárt,</idno></persName>
+                    <persName><idno type="KEMKI">burkus királyt,</idno></persName> a <persName><idno
+                            type="KEMKI">dániai</idno></persName>, <persName><idno type="KEMKI"
+                            >bavariai</idno></persName>, <persName><idno type="KEMKI">würtenbergi
+                            királyokat</idno></persName>, <persName><idno type="KEMKI"
+                            >Velingtont</idno></persName>, <persName><idno type="KEMKI"
+                            >Swarzenberget</idno></persName>, az utolsót nevezetesen ma is láttam.
+                    (december 17). Egy regement dragonyos innen elmasírozván, azokat elkisértette. A
+                    nevezetesebb helyek, ahol egykor s máskor beférkeztem, először az <choice>
+                        <orig>un</orig>
+                        <supplied>úgynevezett</supplied>
+                    </choice>. Kunst Gallerie, amelyben sok nevezetes dolgokat láttam, mind a
+                    mostani, mind pedig ezer, kétezer esztendős mesterek műveit. Nevezetesen láttam
+                    egy kezet, amely ha felhúzódott, mint egy óra, írt magába. Láttam egy kitöltött
+                    kis madarat, mely egy kalitkába mintha be volt volna zárva, ha felhúzták,
+                        <milestone unit="emptyLine"/></p>
                 <p>magába énekelt, és egy szoba úgy volt készítve, mintha barlang lett volna, ahol
                     Diana a Nympháival fürdik. Ezeken kívül csaknem száma nélkül való gipszből,
                     kőből faragott nevezetes embereknek portréjai, sokak viaszból a természeti
@@ -144,22 +154,26 @@
                     láttam. Ezenkívül láttam még a császári kriptát stb. </p>
                 <p>Semmi különös újságnak írásával nem kedveskedhetem olyassal, itten sok regementek
                     keresztülmasíroznak, akik a háborúból visszatértek. </p>
-                <p>Ferenczy Sámuel ezelőtt kilenc héttel idejött Bécsbe, négy hétig dolgozott, de
-                    neki itten nem tetszett, azért visszament Magyarországra, hová-hová nem, azt
-                    magam sem tudom, mivel elválásunkkor maga sem tudta megmondani. </p>
+                <p><persName><idno type="KEMKI">Ferenczy Sámuel </idno></persName>ezelőtt kilenc
+                    héttel idejött <placeName><idno type="KEMKI">Bécsbe</idno></placeName>, négy
+                    hétig dolgozott, de neki itten nem tetszett, azért visszament <placeName><idno
+                            type="KEMKI">Magyarországra</idno></placeName>, hová-hová nem, azt magam
+                    sem tudom, mivel elválásunkkor maga sem tudta megmondani. </p>
                 <p>Itt a tél magát jó korán elkezdette és ezelőtt három-négy héttel már kemény idők
                     jártak, úgyhogy imitt-amott az utakon némelyek meg is fagytak, némelyek a
                     fuvatagokba befúltak. </p>
                 <pb facs="556_20 (3).jpg" type="facsimile"/>
-                <p>Detsy doktor úr igen beteges és hogy jobban legyen, ahhoz semmi reménység sem
-                    lehet, ha szinte még valameddig elhúzza is. </p>
-                <p>Cseh Sándor úrral igen nagy ismeretségbe vagyok és kivált a nyári napokon igen
-                    sokat sétálgattunk együtt. </p>
+                <p><persName><idno type="KEMKI">Detsy</idno></persName> doktor úr igen beteges és
+                    hogy jobban legyen, ahhoz semmi reménység sem lehet, ha szinte még valameddig
+                    elhúzza is. </p>
+                <p><persName><idno type="KEMKI">Cseh Sándor</idno></persName> úrral igen nagy
+                    ismeretségbe vagyok és kivált a nyári napokon igen sokat sétálgattunk együtt. </p>
                 <p>A te sorsodról pedig azt jegyzem meg, hogy cselekedj úgy, amint a magad egyenes
-                    kinézése diktál és hogy Kassára mentél az nem hogy szomorítana, de sőt
-                    örömkönnyeket facsar testvéri szívemből, és hogy a német nyelv megtanulására is
-                    módod van, egy különös szerencse és nagy díszére szolgál egy ifjúnak, akárhol
-                    légy is, akármit tanulj is, csak valamit tanulj, mind tökéletesedik az az ember. </p>
+                    kinézése diktál és hogy <placeName><idno type="KEMKI">Kassára</idno></placeName>
+                    mentél az nem hogy szomorítana, de sőt örömkönnyeket facsar testvéri szívemből,
+                    és hogy a német nyelv megtanulására is módod van, egy különös szerencse és nagy
+                    díszére szolgál egy ifjúnak, akárhol légy is, akármit tanulj is, csak valamit
+                    tanulj, mind tökéletesedik az az ember. </p>
                 <p>Ezek mellett kívánok minden lelki és testi áldásokat, feltett szándékodba boldog
                     előmenetelt és a szerencsétlenségek is váljanak a szerencsének jóízű
                     gyümölcsévé, (amint ez magamon is sok ízben történt) és soha vidám napjaidra

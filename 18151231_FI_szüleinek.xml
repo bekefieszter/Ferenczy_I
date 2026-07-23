@@ -87,15 +87,19 @@
                 <milestone unit="emptyLine"/>
                 <pb facs="695_20 (1).jpg"/>
                 <opener>
-                    <salute>Kedves Atyámuram és Anyámasszony!</salute>
+                    <salute>Kedves <persName><idno type="KEMKI">Atyámuram</idno></persName> és
+                                <persName><idno type="KEMKI"
+                        >Anyámasszony</idno></persName>!</salute>
                 </opener>
                 <milestone unit="emptyLine"/>
                 <p>Egy valami nyughatatlan ösztön kényszerítvén szívemet és hogy háladatos buzgó
                     indulatimat kiönthessem s késedelmem az esztendőből az újra ne menjen,
                     decembernek utolsó napján mintegy három és négy óra között felébredtem s azonnal
                     pennámhoz kaptam felelni, a még szeptember 3-án hozzám utasított levelekre és
-                    egyszersmind Józseftől is Kassáról csakugyan egyszer (november 28.) levelet
-                    kapván, ő néki is valamit írjak és állapotomról tudósítást tegyek. Tehát:</p>
+                    egyszersmind <persName><idno type="KEMKI">Józseftől</idno></persName> is
+                            <placeName><idno type="KEMKI">Kassáról</idno></placeName> csakugyan
+                    egyszer (november 28.) levelet kapván, ő néki is valamit írjak és állapotomról
+                    tudósítást tegyek. Tehát:</p>
                 <p>Én most ez idő szerint friss, jó egészségben vagyok, melyhez hasonlót
                     kigyelmeteknek is kívánok. Semmi különös viszontagságok nem nyomják vállamat: de
                     egy különös tűz vagyon még mostan is bennem, a Mesterség szeretete és nagyobbra
@@ -113,34 +117,45 @@
                     szerencsém, hogy minden nap két órát az Akadémiára mehetek, anélkül, hogy
                     keresetemben valami fogyatkozást szenvednék.</p>
                 <p>Ily igyekezet mellett talán sokat is ígér magának ifjúi nagyravágyó gondolatom,
-                    annyival is inkább, mivel teljes szándékkal csak r.szombati lakos akar lenni,de
-                    hiszem már, az bármint üssön is ki, engem azért nagyon meg nem tántorít.</p>
+                    annyival is inkább, mivel teljes szándékkal csak <placeName><idno type="KEMKI"
+                            >r.szombati</idno></placeName> lakos akar lenni,de hiszem már, az
+                    bármint üssön is ki, engem azért nagyon meg nem tántorít.</p>
                 <p>Semmi különös újságnak írásával nem kedveskedhetem olyassal, hanem, hogy
-                    Swartzenberg a mostani legfőbb Feldmarschalunk már régen hazajött a háborúból,
-                    és sok regementek itten keresztül masíroznak, akik a háborúból visszajöttek. A
-                    császár Olaszországban, Mantovába van.</p>
-                <p>Ferenczy Sámuel ezelőtt kilenc héttel idejött, négy hétig munkába volt, de neki
-                    itten nem tetszett, ismét vissza Magyarországba ment, hová-hová nem, azt nem
-                    tudom, mivel elválásunkkor maga sem tudta megmondani.</p>
+                            <persName><idno type="KEMKI">Swartzenberg</idno></persName> a mostani
+                    legfőbb Feldmarschalunk már régen hazajött a háborúból, és sok regementek itten
+                    keresztül masíroznak, akik a háborúból visszajöttek. A <persName><idno
+                            type="KEMKI">császár</idno></persName>
+                    <placeName><idno type="KEMKI">Olaszországban</idno></placeName>,
+                            <placeName><idno type="KEMKI">Mantovába</idno></placeName> van.</p>
+                <p><persName><idno type="KEMKI">Ferenczy Sámuel </idno></persName>ezelőtt kilenc
+                    héttel idejött, négy hétig munkába volt, de neki itten nem tetszett, ismét
+                    vissza <placeName><idno type="KEMKI">Magyarországba</idno></placeName> ment,
+                    hová-hová nem, azt nem tudom, mivel elválásunkkor maga sem tudta megmondani.</p>
                 <p>Itt a tél magát igen korán elkezdette, és ezelőtt 3 s 4 héttel már kemény idők
                     jártak, úgyhogy imitt-amott az utakon mintegy öt személy meg is fagyott.
                     Némelyek a nagy fuvatagokban befúltak.<milestone unit="emptyLine"/></p>
-                <p>24-én itt megkapott berlini újság írja, hogy Danzigba egy puskaporos torony
-                    felgyulladt, amelyben volt mintegy 30 mázsa puskapor, sok kartács, golyóbisok,
-                    gránátok, és ezek mind összegyulladván, a városba (ahol éppen vásár volt)
-                    tetemes károkat tett, mintegy 700 házakat lerontott, 400 embereket, ezeken kívül
-                    barmokat megölt; a levegő megszorulása és a föld reszketése miatt a harangok
-                    magokba harangoztak s több efféle rémítő dolgokat szerzett.</p>
-                <p>Detsy doktor úr még most is igen beteges és az én gondolatom szerint, ha szinte
-                    húzza is, jobban sohasem lesz. Valahányszor hozzámegyek, köszönteti
-                    kigyelmeteket.</p>
-                <p>Ezeknek jelentések, s híradások mellett köszöntöm Káposztás István sógor uramat,
-                    Maris és Susi nénémasszonyt, János öcsémet, Pap István barátomat és mindeneket,
-                    valakik rólam jó emlékezettel vagynak.</p>
+                <p>24-én itt megkapott berlini újság írja, hogy <placeName><idno type="KEMKI"
+                            >Danzigba</idno></placeName> egy puskaporos torony felgyulladt, amelyben
+                    volt mintegy 30 mázsa puskapor, sok kartács, golyóbisok, gránátok, és ezek mind
+                    összegyulladván, a városba (ahol éppen vásár volt) tetemes károkat tett, mintegy
+                    700 házakat lerontott, 400 embereket, ezeken kívül barmokat megölt; a levegő
+                    megszorulása és a föld reszketése miatt a harangok magokba harangoztak s több
+                    efféle rémítő dolgokat szerzett.</p>
+                <p><persName><idno type="KEMKI">Detsy</idno></persName> doktor úr még most is igen
+                    beteges és az én gondolatom szerint, ha szinte húzza is, jobban sohasem lesz.
+                    Valahányszor hozzámegyek, köszönteti kigyelmeteket.</p>
+                <p>Ezeknek jelentések, s híradások mellett köszöntöm <persName><idno type="KEMKI"
+                            >Káposztás István</idno></persName> sógor uramat, <persName><idno
+                            type="KEMKI">Maris</idno></persName> és <persName><idno type="KEMKI"
+                            >Susi</idno></persName> nénémasszonyt, <persName><idno type="KEMKI"
+                            >János</idno></persName> öcsémet, <persName><idno type="KEMKI">Pap
+                            István</idno></persName> barátomat és mindeneket, valakik rólam jó
+                    emlékezettel vagynak.</p>
                 <milestone unit="emptyLine"/>
                 <closer>
                     <salute>Kegyelmeteket pedig ajánlom a kegyelmes Isten gondviselésére s maradok
-                        Bécsben kegyelmeteknek hűséges és engedelmes fiuk </salute>
+                                <placeName><idno type="KEMKI">Bécsben</idno></placeName>
+                        kegyelmeteknek hűséges és engedelmes fiuk </salute>
                     <signed><persName>Ferenczy István</persName></signed>
                 </closer>
                 <p>A levél írásba egy nagy hibát tettem, de az idő szűk volta nem engedte, hogy

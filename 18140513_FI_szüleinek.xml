@@ -185,12 +185,12 @@
                     csókolom <placeName><idno type="KEMKI">Bécsbe</idno></placeName></p>
                 <milestone unit="emptyLine"/>
                 <closer>
-                    <salute>Kigyelmeteknek hűséges és engedelmes fiok</salute>
+                    <salute>Kigyelmeteknek hűséges és engedelmes fiuk</salute>
                     <signed><persName>Ferentzy István</persName></signed>
                 </closer>
                 <p>P. S. Ha Levelet írnak titulálják <placeName><idno type="KEMKI"
                         >Bécsbe</idno></placeName> a Szoltz Griz utcában levő lakatos herberken
-                    dolgozó Ferentzy I.</p>
+                    dolgozó <persName><idno type="KEMKI">Ferentzy</idno></persName> I.</p>
                 <p>P. S. Ha a vas gattert felszögezte kigyelmed, írja meg hogy sült el.</p>
                 <p>P. S. Köszöntsék <persName><idno type="KEMKI">Pap Istvánt</idno></persName> is,
                     és mondják meg néki, hogy az idő szűk volta nem engedi, hogy néki is írjak, nem

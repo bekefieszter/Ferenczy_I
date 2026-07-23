@@ -87,23 +87,33 @@
                 <milestone unit="emptyLine"/>
                 <pb facs="693_20 (1).jpg"/>
                 <opener>
-                    <salute>Kedves Atyám uraim és Anyámasszony!</salute>
+                    <salute>Kedves <persName><idno type="KEMKI">Atyámuram</idno></persName> és
+                                <persName><idno type="KEMKI"
+                        >Anyámasszony</idno></persName>!</salute>
                 </opener>
                 <milestone unit="emptyLine"/>
-                <p>E folyó hónapnak hatodik napján Csordás Jánossal (sok egymást keresésünk után)
-                    összeakadtunk, és én kérdezkedődvén felőle, hogy mikor kapott levelet vagy mikor
-                    fog küldeni, azt felelte, hogy a delizsánszot minden órán várja, amidőn levelet
-                    fog kapni és ismét másikat fog küldeni. Én is azért minden haladék nélkül
-                    pennára kaptam, hogy én is ezen alkalmatossággal tudósítsam kegyelmeteket,
-                    annyival is inkább, hogy az ittlétem felől is kétségesek talán, mivel a Likéri
-                    Sámueltől küldött levelemre semmi választ is nem kaptam.</p>
+                <p>E folyó hónapnak hatodik napján <persName><idno type="KEMKI">Csordás
+                            Jánossal</idno></persName> (sok egymást keresésünk után) összeakadtunk,
+                    és én kérdezkedődvén felőle, hogy mikor kapott levelet vagy mikor fog küldeni,
+                    azt felelte, hogy a delizsánszot minden órán várja, amidőn levelet fog kapni és
+                    ismét másikat fog küldeni. Én is azért minden haladék nélkül pennára kaptam,
+                    hogy én is ezen alkalmatossággal tudósítsam kegyelmeteket, annyival is inkább,
+                    hogy az ittlétem felől is kétségesek talán, mivel a<persName><idno type="KEMKI">
+                            Likéri Sámueltől</idno></persName> küldött levelemre semmi választ is
+                    nem kaptam.</p>
                 <p>Ami az állapotomat illeti, friss, jó egészségem vagyon, nincsenek semmi olyan
                     különös bajaim, semmi újságnak írásával nem kedveskedhetem, hanem annak mégis
-                    örülök, hogy ilyen szép részében az időnek Bécsben lehetek, amely állapotban még
-                    sohasem volt, hogy egyszerre annyi fejedelmek összegyűltek volna benne. Ezen
-                    jelentések után köszöntöm nagyanyámasszonyékat, Káposztás István sógor uramat,
-                    Maris és Susi nénémasszonyokat, János és József öcséimet, Pap István barátomat
-                    és mindeneket, akik rólam jó emlékezettel vannak. </p>
+                    örülök, hogy ilyen szép részében az időnek <placeName><idno type="KEMKI"
+                            >Bécsben</idno></placeName> lehetek, amely állapotban még sohasem volt,
+                    hogy egyszerre annyi fejedelmek összegyűltek volna benne. Ezen jelentések után
+                    köszöntöm nagyanyámasszonyékat, <persName><idno type="KEMKI">Káposztás István
+                        </idno></persName>sógor uramat, <persName><idno type="KEMKI"
+                        >Maris</idno></persName> és <persName><idno type="KEMKI"
+                        >Susi</idno></persName> nénémasszonyokat, <persName><idno type="KEMKI"
+                            >János</idno></persName> és <persName><idno type="KEMKI"
+                        >József</idno></persName> öcséimet, <persName><idno type="KEMKI">Pap
+                            István</idno></persName> barátomat és mindeneket, akik rólam jó
+                    emlékezettel vannak. </p>
                 <milestone unit="emptyLine"/>
                 <closer>
                     <salute>Kigyelmeteket pedig a kegyelmes Isten gondviselésébe ajánlván, maradok
@@ -111,17 +121,21 @@
                     <signed><persName>Ferenczy István</persName></signed>
                 </closer>
                 <pb facs="693_20 (2).jpg" type="facsimile"/>
-                <p>P. S. Köszönti általam kigyelmezeket Detsy Sámuel úr is, nemkülönben Csapó Sámuel
-                    sógor uramat is és azt íratja általam, hogy azon levelet, amelyet még az őszön
-                    írt, kezéhez kapta, amelyből értette a fiai iránt való szándékát, de szándékát
-                    nem teljesítheti a következő okokon: először, mivel most ismár 16 héttől fogva
-                    való nyavalyában fekszik, (már mostanában ugyanis kevéssé jobban van már);
-                    másodszor, magának is aprólékos gyermekei lévén, most is egy Pozsonyban, a másik
-                    Komáromban tanul, akik mind sok költségben vannak. Utoljára és kiváltképpen az,
-                    hogy, mint egy fogadása tartja, hogy semmi atyafival soha jót nem teszen;
-                    sokakat a sárból kiemelt, nevezetesen Cseh Sándort, és még bosszúval illeti
-                    érette (amelyről való panasszal a papirost sem foglalom most), de mind igaz
-                    okok. </p>
+                <p>P. S. Köszönti általam kigyelmezeket <persName><idno type="KEMKI">Detsy
+                            Sámuel</idno></persName> úr is, nemkülönben <persName><idno type="KEMKI"
+                            >Csapó Sámuel</idno></persName> sógor uramat is és azt íratja általam,
+                    hogy azon levelet, amelyet még az őszön írt, kezéhez kapta, amelyből értette a
+                    fiai iránt való szándékát, de szándékát nem teljesítheti a következő okokon:
+                    először, mivel most ismár 16 héttől fogva való nyavalyában fekszik, (már
+                    mostanában ugyanis kevéssé jobban van már); másodszor, magának is aprólékos
+                    gyermekei lévén, most is egy <placeName><idno type="KEMKI"
+                        >Pozsonyban</idno></placeName>, a másik <placeName><idno type="KEMKI"
+                            >Komáromban</idno></placeName> tanul, akik mind sok költségben vannak.
+                    Utoljára és kiváltképpen az, hogy, mint egy fogadása tartja, hogy semmi
+                    atyafival soha jót nem teszen; sokakat a sárból kiemelt, nevezetesen
+                            <persName><idno type="KEMKI">Cseh Sándort,</idno></persName> és még
+                    bosszúval illeti érette (amelyről való panasszal a papirost sem foglalom most),
+                    de mind igaz okok. </p>
                 <p>P. S. Akármelyik műhelyben, akárhol laktam is én, a levelet titulálják a lakatos
                     herbergre 218 numerus alá, az atyamester a kezéhez vevén a levelet, annak a
                     nevét, akinek szól, a táblára kiírja, és az ember csak a táblát olvassa s
@@ -133,8 +147,11 @@
             <div>
                 <head>Címzés:</head>
                 <pb facs="693_20 (2).jpg" type="facsimile"/>
-                <p>Szabad Privilegizált Rima-Szombath Városában Lakozó Ferentzÿ István Atyámuramnak
-                    alázatos fiúi tiszteletem mellett ajánlom. a Rima-Szombath </p>
+                <p>Szabad Privilegizált <placeName><idno type="KEMKI">Rima-Szombath
+                        </idno></placeName>Városában Lakozó <persName><idno type="KEMKI">Ferentzÿ
+                            István</idno></persName> Atyámuramnak alázatos fiúi tiszteletem mellett
+                    ajánlom. a <placeName><idno type="KEMKI">Rima-Szombath</idno></placeName>
+                </p>
             </div>
         </body>
     </text>

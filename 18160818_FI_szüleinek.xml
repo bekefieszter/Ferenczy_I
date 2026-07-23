@@ -87,43 +87,56 @@
                 <milestone unit="emptyLine"/>
                 <pb facs="697_20 (1).jpg"/>
                 <opener>
-                    <salute>Kedves Atyámuram s Anyámasszony!</salute>
+                    <salute>Kedves <persName><idno type="KEMKI">Atyámuram</idno></persName> s
+                                <persName><idno type="KEMKI"
+                        >Anyámasszony</idno></persName>!</salute>
                 </opener>
                 <milestone unit="emptyLine"/>
-                <p>Eleinte fognak kigyelmetek reszketni, midőn egy levelet Istvánjoktól olvasni
-                    fognak: hanem csendesítsék magukat, és a hírt ne képzeljék rosszabbaknak, mint
-                    amilyen. Már akkor is, midőn én azon szomorú elválás csókjai között ajkaikon
-                    csüggöttem a bánat zsoldja le volt fizetve: a mi őrző angyalaink, akik előtt a
-                    jövendő történetnek firhangja nyitva állott, mi mellettünk voltak, és egy
+                <p>Eleinte fognak kigyelmetek reszketni, midőn egy levelet <persName><idno
+                            type="KEMKI">Istvánjoktól</idno></persName> olvasni fognak: hanem
+                    csendesítsék magukat, és a hírt ne képzeljék rosszabbaknak, mint amilyen. Már
+                    akkor is, midőn én azon szomorú elválás csókjai között ajkaikon csüggöttem a
+                    bánat zsoldja le volt fizetve: a mi őrző angyalaink, akik előtt a jövendő
+                    történetnek firhangja nyitva állott, mi mellettünk voltak, és egy
                     kinevezhetetlen fájdalommal illettek bennünket. És hallják meg végre az
-                    üzenetet, hogy én pesti Medárd-vásáráig haza nem megyek; és tudósítom
-                    kigyelmeteket állapotom felől. </p>
+                    üzenetet, hogy én <placeName><idno type="KEMKI">pesti</idno></placeName>
+                    Medárd-vásáráig haza nem megyek; és tudósítom kigyelmeteket állapotom felől. </p>
                 <p>Július 20-án hozzám utasított leveleket megkaptam, amelyből értettem
-                    mindnyájuknak friss, jó egészségüket, ugyanezen a napon kaptam József öcsémnek
-                    utolsóbb levelét is, és most együtt írom ő neki is a választ. Ami a magam
-                    állapotját illeti, egészségem igen jó vagyon. Azon acélművesnek műhelyét
-                    mindeddig megtartottam. Nem azért, mintha jövendőre az efféle munkából akarnék
-                    odahaza valami plánumot csinálni, hanem, hogy könnyebb, mint a lakatosság és a
-                    maiszter is igen emberséges ember, a ruhámat sem nyövöm oly nagyon, s ételemre
-                    vagy </p>
+                    mindnyájuknak friss, jó egészségüket, ugyanezen a napon kaptam <persName><idno
+                            type="KEMKI">József</idno></persName> öcsémnek utolsóbb levelét is, és
+                    most együtt írom ő neki is a választ. Ami a magam állapotját illeti, egészségem
+                    igen jó vagyon. Azon acélművesnek műhelyét mindeddig megtartottam. Nem azért,
+                    mintha jövendőre az efféle munkából akarnék odahaza valami plánumot csinálni,
+                    hanem, hogy könnyebb, mint a lakatosság és a maiszter is igen emberséges ember,
+                    a ruhámat sem nyövöm oly nagyon, s ételemre vagy </p>
                 <pb facs="697_20 (2).jpg" type="facsimile"/>
                 <p>italomra sem kell annyit kiadnom, mint az erős munka mellett. Újság igen kevés,
-                    vagy épen semmi sincs. Köszöntöm s tisztelem nagyanyámasszonyékat, Káposztás
-                    István sógor uramat, Maris és Susi nénémasszonyt és mindeneket, akik rólam jó
-                    emlékezettel vagynak, nemkülönben Pap István barátomat is;</p>
+                    vagy épen semmi sincs. Köszöntöm s tisztelem <persName><idno type="KEMKI"
+                            >nagyanyámasszonyékat</idno></persName>, <persName><idno type="KEMKI"
+                            >Káposztás István</idno></persName> sógor uramat, <persName><idno
+                            type="KEMKI">Maris</idno></persName> és <persName><idno type="KEMKI"
+                            >Susi</idno></persName> nénémasszonyt és mindeneket, akik rólam jó
+                    emlékezettel vagynak, nemkülönben <persName><idno type="KEMKI">Pap
+                        István</idno></persName> barátomat is;</p>
                 <milestone unit="emptyLine"/>
                 <closer>
                     <salute>kigyelmeteket pedig ajánlom a kegyelmes Isten gondviselésére s maradok
                         kigyelmeteknek hűséges és engedelmes fiuk:</salute>
                     <signed><persName>Ferenczy István</persName></signed>
                 </closer>
-                <p>P. S. Ha levelet írnak, utasítsák a lakatos herbergre stb.</p>
+                <p>P. S. Ha levelet írnak, utasítsák a lakatos herbergre <choice>
+                        <orig>stb</orig>
+                        <supplied>satöbbi</supplied>
+                    </choice>.</p>
             </div>
             <div>
                 <head>Címzés:</head>
                 <pb facs="697_20 (3).jpg" type="facsimile"/>
-                <p>Bétsből Szabad Privilegizált Rima Szombath Városában Lakozó Ferentzÿ István
-                    Atyámuramnak alázatos fiúi tiszteletem mellett ajánlom. a R.-Szombath </p>
+                <p><placeName><idno type="KEMKI">Bétsből</idno></placeName> Szabad Privilegizált
+                            <placeName><idno type="KEMKI">Rima Szombath</idno></placeName> Városában
+                    Lakozó <persName><idno type="KEMKI">Ferentzÿ István
+                    </idno></persName>Atyámuramnak alázatos fiúi tiszteletem mellett ajánlom. a
+                            <placeName><idno type="KEMKI">R.-Szombath </idno></placeName></p>
             </div>
         </body>
     </text>

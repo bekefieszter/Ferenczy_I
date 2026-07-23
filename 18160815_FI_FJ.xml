@@ -87,13 +87,15 @@
                 <milestone unit="emptyLine"/>
                 <pb facs="557_20 (1).jpg"/>
                 <opener>
-                    <salute>Kedves Öcsém! </salute>
+                    <salute>Kedves <persName><idno type="KEMKI">Öcsém</idno></persName>! </salute>
                 </opener>
                 <milestone unit="emptyLine"/>
-                <p>Csak muszáj még egy levelet írnom, minekelőtte Kassát odahagyod, amelybe
-                    nyughatatlanságodat valamennyire csendesítsem, mely is kezedbe kerülvén,
-                    reszkető kezekkel fogod (a dolognak világosságát várván) olvasni és halld meg
-                    mindenekelőtt a választ, hogy én pesti Medárd vásáráig Bécsben maradok és
+                <p>Csak muszáj még egy levelet írnom, minekelőtte <placeName><idno type="KEMKI"
+                            >Kassát</idno></placeName> odahagyod, amelybe nyughatatlanságodat
+                    valamennyire csendesítsem, mely is kezedbe kerülvén, reszkető kezekkel fogod (a
+                    dolognak világosságát várván) olvasni és halld meg mindenekelőtt a választ, hogy
+                    én <placeName><idno type="KEMKI">pesti</idno></placeName> Medárd vásáráig
+                            <placeName><idno type="KEMKI">Bécsben</idno></placeName> maradok és
                     továbbá tudósítalak röviden holmi egy s más dolgokról. </p>
                 <p>Én (amint a télen írt levelemből értetted) az Akadémiába való járást gyakorlottam
                     és még benne szép lépéseket is tettem, de mindazonáltal planumom jó kimenetelét
@@ -112,7 +114,8 @@
                     te februárban írt leveled is elérkezvén, s abból is csak efféle sovány
                     vigasztalásokat kaptam, s az akadémiába való járással felhagytam. Azon
                     acélművesnek műhelyét mindezideig megtartottam és nincsen is szándékom
-                    változtatni mindaddig, míg csak Bécsben maradok. Nem azért, mintha az acélmívből
+                    változtatni mindaddig, míg csak <placeName><idno type="KEMKI"
+                        >Bécsben</idno></placeName> maradok. Nem azért, mintha az acélmívből
                     jövendőre valami plánumot akarnék csinálni, hanem, hogy jobb keresetem vagyon,
                     mint egyebütt akármely lakatosnál, és nem is kell magamat annyira strapacírozni,
                     mint egyebütt, melyre nézve reményem, hogy ebben az esztendőben helyrehozhatom
@@ -126,38 +129,42 @@
                     viszontagságaim között is ezen darabra tekintvén vagy gondolván, néminemű
                     vigaztatást szerezzen, mivel e világ csak egy játéknéző ház. <milestone
                         unit="emptyLine"/></p>
-                <p>Tudósítottál júniusi leveledben arról is, hogy szeptember elsejére Patakra be
-                    fogsz menni, amelyet helybe is hagyok. Ne szűnj meg soha is szorgalmatos lenni,
-                    a virtust és a jót szeressed, de erre ezt felelhetnéd : „Nem, bácsi, a te
-                    virtusaidnak alkotmánya nem fog nekem többé tetszeni, a te tanításod igen
-                    fagyos, és én kötelesnek tartom magamat megmondani bácsinak, hogy sokkal
-                    hidegebb vérűnek kell lenni, a jó és rossz között valóválasztásban. Ha – hogy a
-                    virtus a fő helyen megállhasson, úgy kellene egész erővel feltartani. Nyalánk
-                    szelek és kedvesnapok elolvasztják a jégtornyokat. Ah! Bácsi: a virtus már igen
-                    ritka, olyan ritka, hogy már az egy csudává változott; az ember csak elbámul,
-                    midőn egy virtusos embert talál, holott a rosszon kellene elbámulni, mint valami
-                    természetbe történt rendetlenségen, és hányat tartunk mi virtusosnak, akik
-                    valóban nem azok. És oly adakozók vagyunk ezzel a névvel, valaki csak tőlünk
-                    kívánja, világi tudós, génius, szerző, vitéz. De tegye, aki akarja, én nem
-                    akarok egy hízelkedő lenni, segélje akárki rosszaknak kerekét szentekké tenni!
-                    Én nekem nincs jussomba a virtusi nevet ócsárolni, és vájjon hiba-e az, ha én
-                    egy majmot majomnak, egy tigrist tigrisnek nevezek. Az embereknek pedig a
-                    természetet és a nevet egészen megfordítsuk és bolondot tudósnak, egy gonoszat
-                    virtusosnak nevezzünk. Nem. – Értem én az erkölcsisebb világ beszédjét </p>
+                <p>Tudósítottál júniusi leveledben arról is, hogy szeptember elsejére
+                            <placeName><idno type="KEMKI">Patakra</idno></placeName> be fogsz menni,
+                    amelyet helybe is hagyok. Ne szűnj meg soha is szorgalmatos lenni, a virtust és
+                    a jót szeressed, de erre ezt felelhetnéd : „Nem, bácsi, a te virtusaidnak
+                    alkotmánya nem fog nekem többé tetszeni, a te tanításod igen fagyos, és én
+                    kötelesnek tartom magamat megmondani bácsinak, hogy sokkal hidegebb vérűnek kell
+                    lenni, a jó és rossz között valóválasztásban. Ha – hogy a virtus a fő helyen
+                    megállhasson, úgy kellene egész erővel feltartani. Nyalánk szelek és kedvesnapok
+                    elolvasztják a jégtornyokat. Ah! Bácsi: a virtus már igen ritka, olyan ritka,
+                    hogy már az egy csudává változott; az ember csak elbámul, midőn egy virtusos
+                    embert talál, holott a rosszon kellene elbámulni, mint valami természetbe
+                    történt rendetlenségen, és hányat tartunk mi virtusosnak, akik valóban nem azok.
+                    És oly adakozók vagyunk ezzel a névvel, valaki csak tőlünk kívánja, világi
+                    tudós, génius, szerző, vitéz. De tegye, aki akarja, én nem akarok egy hízelkedő
+                    lenni, segélje akárki rosszaknak kerekét szentekké tenni! Én nekem nincs
+                    jussomba a virtusi nevet ócsárolni, és vájjon hiba-e az, ha én egy majmot
+                    majomnak, egy tigrist tigrisnek nevezek. Az embereknek pedig a természetet és a
+                    nevet egészen megfordítsuk és bolondot tudósnak, egy gonoszat virtusosnak
+                    nevezzünk. Nem. – Értem én az erkölcsisebb világ beszédjét </p>
                 <pb facs="557_20 (3).jpg" type="facsimile"/>
                 <p>és maradok azoknál a köz- és együgyű szólásoknál, amelyeket az én atyámnak
-                    szájából hallottam, egy parasztot nevezek én parasztnak, egy csalót csalónak
-                    stb.</p>
+                    szájából hallottam, egy parasztot nevezek én parasztnak, egy csalót csalónak <choice>
+                        <orig>stb</orig>
+                        <supplied>satöbbi</supplied>
+                    </choice>.</p>
                 <p>Ez az erkölcsiség ugyan egy kicsinyt kormos: de csak ami világunkba. Az mindenkor
                     becsületemre fog nékem szolgálni, ha ők engemet durvának, emberek ellenségének
                     neveznek, mert a csapodárok ellen egy oly örökös gyűlölségre esküdtem, mint
-                    Hannibal a rómaiak ellen. És ha gyenge vagyok is az eszteleneknek és gonoszoknak
-                    ijesztésükre, legalább szavammal akarom őket marszongni, és alkalmatosságot
-                    keresek az ő alacsony lelkűségüket szemekre hányni. Ezek az én gondolatim, ezen
-                    a fundamentumon neveltettem és mint gyermek erre gyakoroltattam, mint egy ifjú
-                    helyeseknek találtam és mint ősz, semmi új életreguláját nem választok.
-                    Szánakozz, bácsi, ne én rajtam, hanem szánakozz azokon, akik engemet lenyomnak.
-                    A gonosz könyörületességet érdemel, a virtusosnak elébb van igazsága, ha szintén
+                            <persName><idno type="KEMKI">Hannibal</idno></persName> a rómaiak ellen.
+                    És ha gyenge vagyok is az eszteleneknek és gonoszoknak ijesztésükre, legalább
+                    szavammal akarom őket marszongni, és alkalmatosságot keresek az ő alacsony
+                    lelkűségüket szemekre hányni. Ezek az én gondolatim, ezen a fundamentumon
+                    neveltettem és mint gyermek erre gyakoroltattam, mint egy ifjú helyeseknek
+                    találtam és mint ősz, semmi új életreguláját nem választok. Szánakozz, bácsi, ne
+                    én rajtam, hanem szánakozz azokon, akik engemet lenyomnak. A gonosz
+                    könyörületességet érdemel, a virtusosnak elébb van igazsága, ha szintén
                     legmélyebben lenyomattatott is, figyelmetességet kívánni. Ezeket úgy írtam ide,
                     mintha te mondanád; én pedig ezt felelem reá, hogy ne légy oly nagyon a magad
                     ellensége, aki az emberek hibáján annyira bosszankodnál és azoknak a
@@ -170,13 +177,20 @@
                         szerető öcsém, mint én is a titeket szerető bátyátok</salute>
                     <signed><persName>F. I</persName></signed>
                 </closer>
-                <p><anchor xml:id="textDir_1"/>Csordás János köszönt, Sütő pedig Pozsonyban
-                    vagyon.</p>
-                <p>Feltétetett a postára augusztus 18-án.<anchor xml:id="textDir_1"/>Köszöntsd János
-                    öcsémet is és becsülöm benne, hogy Rozsnyót odahagyta. Mondd meg néki, hogy
-                    írjon minél előbb világosan állapotja felől, amelyet te is, Patakra megérkezvén,
-                    el ne mulass, az adresst hagyd meg Jánosnál is írásba, amely legyen a lakatos
-                    herbergre stb. mint másszor.</p>
+                <p><anchor xml:id="textDir_1"/><persName><idno type="KEMKI">Csordás
+                        János</idno></persName> köszönt, <persName><idno type="KEMKI"
+                        >Sütő</idno></persName> pedig <placeName><idno type="KEMKI"
+                            >Pozsonyban</idno></placeName> vagyon.</p>
+                <p>Feltétetett a postára augusztus 18-án.<anchor xml:id="textDir_1"/>Köszöntsd
+                            <persName><idno type="KEMKI">János</idno></persName> öcsémet is és
+                    becsülöm benne, hogy <placeName><idno type="KEMKI">Rozsnyót</idno></placeName>
+                    odahagyta. Mondd meg néki, hogy írjon minél előbb világosan állapotja felől,
+                    amelyet te is, <placeName><idno type="KEMKI">Patakra</idno></placeName>
+                    megérkezvén, el ne mulass, az adresst hagyd meg <persName><idno type="KEMKI"
+                            >Jánosnál</idno></persName> is írásba, amely legyen a lakatos herbergre <choice>
+                        <orig>stb</orig>
+                        <supplied>satöbbi</supplied>
+                    </choice>. mint másszor.</p>
             </div>
         </body>
     </text>

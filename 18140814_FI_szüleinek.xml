@@ -87,7 +87,9 @@
                 <milestone unit="emptyLine"/>
                 <pb facs="692_20 (1).jpg"/>
                 <opener>
-                    <salute>Kedves Atyámuram s Anyámasszony!</salute>
+                    <salute>Kedves <persName><idno type="KEMKI">Atyámuram</idno></persName> s
+                                <persName><idno type="KEMKI"
+                        >Anyámasszony</idno></persName>!</salute>
                 </opener>
                 <milestone unit="emptyLine"/>
                 <p>Szives óhajtásom, hogy ezen levelecském a legfrissebb egészségben találja
@@ -102,11 +104,12 @@
                     mindenekfelett a csömörtől nem félek (hacsak a magam erszényin meg nem kapom). A
                     műhelyemet pedig változtattam, és mindenféle szép munka jön a kezembe, szépen
                     készült vásári kályhák és oly lakatok, amelyek remekbe vagy talán remekbe sem
-                    készültek R.Sz-on.</p>
-                <p>Még az első levelemben írtam homályba a császár jöveteléről, hanem most, bár
-                    későre maradt is, írhatok a megérkezéséről. Ugyanis június 15.-én megérkezvén, a
-                    Sonbrúnban hált, (amely a várostól mintegy másfél óra járás) és ugyanezen a
-                    napon</p>
+                    készültek <placeName><idno type="KEMKI">R.Sz-o</idno></placeName>n.</p>
+                <p>Még az első levelemben írtam homályba a <persName><idno type="KEMKI"
+                            >császár</idno></persName> jöveteléről, hanem most, bár későre maradt
+                    is, írhatok a megérkezéséről. Ugyanis június 15-én megérkezvén, a
+                            <placeName><idno type="KEMKI">Sonbrúnban</idno></placeName> hált, (amely
+                    a várostól mintegy másfél óra járás) és ugyanezen a napon</p>
                 <pb facs="692_20 (2).jpg" type="facsimile"/>
                 <p>a cédulák minden szegletekre kiragasztattak, hogy holnap azaz június 16-án senki
                     ne dolgozzon, semmiféle bor-, pálinka-, sörház vagy áruló bolt nyitva ne legyen;
@@ -117,30 +120,38 @@
                     elejébe mintegy kétszáz számból álló 10-12 esztendős, fele férfi és fele leány
                     személy, mind tiszta fehérbe öltözve; a férfiaknak volt egy-egy olajág a
                     kezükbe, a leányoknak pedig egy-egy kis kosár, amely virágokkal volt tele, és a
-                    császár, amerre jött, a virágokat az útjára hányták. Már nyolc órakor a városban
-                    bent volt, és délután egy óráig fel s alá jártak a városba. Az ágyúk a bástyán
-                    szüntelen ropogtak s végre a rezidenciába bekísértettek. Különös megjegyzésre
-                    méltók a szép öltözetbe a magyar uraságok, (kik különben is több számmal voltak,
-                    mint a németek). Ezeknek csak az inasai olyanok voltak, mint egy magyar gárdi;
-                    magukon s lovaikon az arany, ezüst, skarlát, gránát, nyuszt vesztegetése volt. A
-                    palatinus is magyar hazafiságának meg akarván felelni, magyarosan felöltözött s
-                    a császár mellett a többi princekkel ment.<milestone unit="emptyLine"/></p>
+                            <persName><idno type="KEMKI">császár</idno></persName>, amerre jött, a
+                    virágokat az útjára hányták. Már nyolc órakor a városban bent volt, és délután
+                    egy óráig fel s alá jártak a városba. Az ágyúk a bástyán szüntelen ropogtak s
+                    végre a rezidenciába bekísértettek. Különös megjegyzésre méltók a szép öltözetbe
+                    a magyar uraságok, (kik különben is több számmal voltak, mint a németek).
+                    Ezeknek csak az inasai olyanok voltak, mint egy magyar gárdi; magukon s lovaikon
+                    az arany, ezüst, skarlát, gránát, nyuszt vesztegetése volt. A palatinus is
+                    magyar hazafiságának meg akarván felelni, magyarosan felöltözött s a császár
+                    mellett a többi princekkel ment.<milestone unit="emptyLine"/></p>
                 <p>Eljött végre az a sokaktól, úgy én tőlem is nehezen várt estre is, amelyben
                     illumináció tartatott, amely írásába nem is fogok, hanem röviden ezt jegyzem
                     róla, hogy nagy halom lenne az itt levő olajos poharakból, nagy falu lenne az
                     csupán illuminációra készült épületekből, nagy könyv lenne a felülírásokból.
-                    Csak drót (ilyformán hajtva: –O), mely a poharakat tartotta, mintegy 40 mázsa
-                    dolgoztatott fel, csak a herczeg Lichtenstein házán 18000 olajos pohár volt,
-                    egyszóval oly szép és ritka dolog volt az, amelyet még maga Bécs sem látott, és
-                    nagy idő fog bele telni, míg valaha ez történik.</p>
-                <p>Láttam tűzjátékit Stuver Gáspárnak, amelyről Mátyási is emlékszik; láttam még egy
-                    hét esztendős leányt, amelynek nehézsége 151 font volt. Láttam egy nagy ökröt 19
-                    mázsa és fél volt, magassága hat suk, hosszúsága 9 suk, öt coll. Láttam egy
-                    elefántot. Az a leány, amelyről feljebb írtam, friss, egészséges, nem igen
-                    magas, hanem igen kövér, nagy feje, temérdek melle, vastag keze, lába van. Most
-                    ezekről többet nem írhatok az időszűk volta miatt, hanem köszöntöm Káposztás
-                    István sógoruramat, Maris és Susi nénémasszonyokat, János öcsémet és mindeneket,
-                    akik rólam jó emlékezettel vannak.</p>
+                    Csak drót (ilyformán hajtva: <metamark function="graphic"/>), mely a poharakat
+                    tartotta, mintegy 40 mázsa dolgoztatott fel, csak a <persName><idno type="KEMKI"
+                            >herczeg Lichtenstein</idno></persName> házán 18000 olajos pohár volt,
+                    egyszóval oly szép és ritka dolog volt az, amelyet még maga <placeName><idno
+                            type="KEMKI">Bécs</idno></placeName> sem látott, és nagy idő fog bele
+                    telni, míg valaha ez történik.</p>
+                <p>Láttam tűzjátékit<persName><idno type="KEMKI"> Stuver
+                    Gáspárnak</idno></persName>, amelyről <persName><idno type="KEMKI"
+                            >Mátyási</idno></persName> is emlékszik; láttam még egy hét esztendős
+                    leányt, amelynek nehézsége 151 font volt. Láttam egy nagy ökröt 19 mázsa és fél
+                    volt, magassága hat suk, hosszúsága 9 suk, öt coll. Láttam egy elefántot. Az a
+                    leány, amelyről feljebb írtam, friss, egészséges, nem igen magas, hanem igen
+                    kövér, nagy feje, temérdek melle, vastag keze, lába van. Most ezekről többet nem
+                    írhatok az időszűk volta miatt, hanem köszöntöm <persName><idno type="KEMKI"
+                            >Káposztás István </idno></persName>sógoruramat, <persName><idno
+                            type="KEMKI">Maris</idno></persName> és <persName><idno type="KEMKI"
+                            >Susi</idno></persName> nénémasszonyokat, <persName><idno type="KEMKI"
+                            >János</idno></persName> öcsémet és mindeneket, akik rólam jó
+                    emlékezettel vannak.</p>
                 <milestone unit="emptyLine"/>
                 <closer>
                     <salute>Kegyelmeteket pedig ajánlom a kegyelmes Isten gondviselésébe és maradok
@@ -149,9 +160,11 @@
                 </closer>
                 <pb facs="692_20 (3).jpg" type="facsimile"/>
                 <p>N. B. Az <gap unit="word" extent="1"/> a vármegyére első decemberbe be kell adni,
-                    ha valami lesz. P. S. Ismét köszönti Detsy úr kegyelmeteket. P. S. Detsy úr
-                    felől ezt jegyzem meg, hogy van egy (mintegy 17 esztendős fia), prókátorságra
-                    készíti a Kálnay jus keresésére.</p>
+                    ha valami lesz. P. S. Ismét köszönti <persName><idno type="KEMKI"
+                        >Detsy</idno></persName> úr kegyelmeteket. P. S. <persName><idno
+                            type="KEMKI">Detsy</idno></persName> úr felől ezt jegyzem meg, hogy van
+                    egy (mintegy 17 esztendős fia), prókátorságra készíti a Kálnay jus
+                    keresésére.</p>
             </div>
         </body>
     </text>
