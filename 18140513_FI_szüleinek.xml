@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>FERENCZY ISTVÁN – id. FERENCZY ISTVÁN ÉS KÁLNAI MÁRIA (1814.05.13)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Békefi </surname>
+                        <forename>Eszter</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Békefi</surname>
+                        <forename>Eszter</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname/>
+                        <forename/>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Szemigán</surname>
+                        <forename>Dorottya</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Proofreader</resp>
+                    <persName>
+                        <surname/>
+                        <forename/>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>Szépművészeti Múzeum<ref type="url"
+                        >https://www.szepmuveszeti.hu/</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Szépművészeti Múzeum</orgName>
+                    <ref type="url">https://www.szepmuveszeti.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="URL">ferenczy.tei.</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A levél Huntéka azonosítója:<idno type="HuntékaID"/>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="hu"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">FERENCZY ISTVÁN – Id. FERENCZY ISTVÁN ÉS KÁLNAI MÁRIA (Bécs,
+                    1814. május 13.)</head>
+                <p><note type="critic">Ezt és a következő levelet <persName><idno type="KEMKI"
+                                >Wallentiny</idno></persName> az eredeti helyesírással adta közre,
+                        mert érzékeltetni akarta, hogy mennyire igaz, amit <persName><idno
+                                type="KEMKI">Kazinczy</idno></persName> 1823.-ban írt:
+                        „Grammaticája, Orthographiája, Epistolographiája valóban Lakatosi még ma
+                        is.“ (<bibl>Váczy:K. F. Levelezése XVIII. k.
+                    239.o</bibl>)</note><!--ezt meg kell néznem--></p>
+                <milestone unit="emptyLine"/>
+                <pb facs="691_20 (1).jpg"/>
+                <opener>
+                    <salute>Kedves <persName><idno type="KEMKI">Atyámuram</idno></persName> és
+                                <persName><idno type="KEMKI"
+                        >Anyámasszony</idno></persName>!!</salute>
+                </opener>
+                <milestone unit="emptyLine"/>
+                <p>Talán sokára is halasztottam ezen levélnek írását, de éppen azt nem akartam belé
+                    írni, hogy célomat mind az által most sem egészen érhettem el, de továbbra
+                    halaszgatni nem akarván tudósítom kigyelmeteket.</p>
+                <p>Én szerdán <placeName><idno type="KEMKI">R. Szombatból</idno></placeName>
+                    kiindulván, <placeName><idno type="KEMKI">Losoncra</idno></placeName>, másnap
+                            <placeName><idno type="KEMKI">Balás-Gyarmatra</idno></placeName>,
+                    harmadnap <placeName><idno type="KEMKI">Szent-Györgyre</idno></placeName>
+                    negyednap <placeName><idno type="KEMKI">Patára</idno></placeName> ötödnap azaz
+                    vasárnap délután 3 órakor <placeName><idno type="KEMKI"
+                        >Posonba</idno></placeName> - az alkalmatosság igen jól szolgálván –
+                    beérkeztem. Itten – időm léven – a várost megjártam. Este szerencsém volt látni
+                    a város kivilágosítását, amely abból állott, hogy minden ablakba két szál
+                    gyertyának égni kellet azonkívül – akinek módja volt benne – húszat is tett
+                    különb különbféle figurákra. Az uraságok pedig mindenféle szép illuminációkat
+                    tettek az utcán levő gang gatterokra.<note type="critic">Rácsos átjárók,
+                        kapuk.</note> Legalább is egyen-egyen három s négyszáz olajos mécs éghetett.
+                    A Repülő híd<note type="critic">A repülőhíd egy olyan komp, amelyet az erős
+                        sodrású folyók egyik partjáról a másikra való átkeléshez használtak, emberi,
+                        állati, vagy gépi erő bevetése nélkül. Duna magyarországi szakaszán elsőként
+                        1676-ban épült repülőhíd, <placeName><idno type="KEMKI"
+                            >Pozsony</idno></placeName>nál, amely <persName><idno type="KEMKI"
+                                >Moller Vilmos</idno></persName> bécsi ácsmester nevéhez
+                        köthető.</note> két árbóc-fájára lécből ki voltak verve ezek a szók: „Es
+                    leben die Alliirten!<note type="critic">Éljenek a szövetségesek! - A szövetséges
+                        hatalmak (Ausztria, Poroszország, Oroszország, szb.) jelmondata volt
+                                <persName><idno type="KEMKI">Napóleon</idno></persName> veresége
+                        után, aki éppen ekkor, májusban utazott száműzetése helyére,
+                                <placeName><idno type="KEMKI">Elba</idno></placeName>
+                        szigetére.</note>” és este olajmécsek égtek rajta oly formán mint, ahogy a
+                    koporsót kiverik, és egy E betűn 40 mécs égett,
+                    sat<!--ezt megbeszélni Dottival  rövidítések-->. (Ezek voltak annak örömére,
+                    hogy a mi népünk <placeName><idno type="KEMKI">Páris</idno></placeName>
+                    városában beérkezett.<note type="critic">1814. elején a szövetségesek
+                        benyomultak <placeName><idno type="KEMKI"
+                        >Franciaországba</idno></placeName>, 1814. március 31-án <placeName><idno
+                                type="KEMKI">Párizs</idno></placeName> elesett. Ekkor gyakorlatilag
+                        eldőlt <persName><idno type="KEMKI">Napóleon</idno></persName>
+                        veresége.</note>)</p>
+                <p>Munkát kaphattam volna, de <placeName><idno type="KEMKI"
+                        >Bécsbe</idno></placeName> lévén szándékom - másnap elindultam, és az
+                    úton</p>
+                <pb facs="691_20 (2).jpg" type="facsimile"/>
+                <p> egy alkalmatosság adódván, <placeName><idno type="KEMKI">Bécs</idno></placeName>
+                    mellé vitt jó késő este. Innen már csak egy gyenge fél óra járás lévén
+                            <placeName><idno type="KEMKI">Bécs</idno></placeName>. Másnap, azaz
+                    kedden könnyen be verekedhettem. Szerdán pedig munkába állottam, egy emberséges
+                    fiatal maisterhez, de nem igen tettszik nekem a műhely és a műhelybe lévő
+                    emberei – de ne gondolkozzanak felőlem. Akármint üt is dolgom én magamra gondot
+                    viselek. Azonban már most eltökéllet feltett szándékom (ha csak azt is az idő el
+                    nem rontja) hogy otthon leszek magam koldusa vagy gazdája, s akármikor, ha nem
+                    tetszene haza mennék. Az egészségemmel pedig mind az útba, mind azóta
+                    dicsekedhetem. Újsággal olyassal nem kedveskedhetem, hanem hogy április 24-én
+                    itten Te Deum Laudamus tartatott és a <persName><idno type="KEMKI"
+                            >Koronaherceg</idno></persName>, a <persName><idno type="KEMKI"
+                            >Császárné</idno></persName> nagy parádéval a Szent István
+                        templomába<note type="critic">A bécsi
+                        Stefansdomban<!--megnézni, milyen Te Deum volt  --></note> menvén látni
+                    szerencsém volt. A <persName><idno type="KEMKI">Császár</idno></persName> még
+                    sincs idehaza, amint a szagát érzém, nagy parádé lesz midőn haza fog jönni.
+                    Láttam a levegői hajónak mivoltát.<note type="critic"
+                        >Léghajó.<!--megnézni, mikor volt léghajó Bécsben--></note> A
+                            <persName><idno type="KEMKI">József Császár</idno></persName> rézből ki
+                    öntetett kepe lovastól együtt megbecsülhetetlen nagy kincs és nagy munka.<note
+                        type="critic">Franz Anton Zauner osztrák szobrász 1808-ban felavatott II.
+                        József császár lovasszobra, Bécsben, a Josefsplatzon található.<pb
+                            facs="Zauner II József lovasszobra.jpg" type="note"/></note>
+                    <!-- a beillesztett képeket hová tegyem???-->Ezeken kívül sok aprólékos
+                    tapasztalásaim is volnának, de azokkal levelemet nyújtani nem akarván most
+                    elhagyom. <persName><idno type="KEMKI">Detsi</idno></persName> doktor urat is
+                    április 24-én felkerestem és velem, mint idegennel vagy ismerőssel – vagy hogy
+                        írjam,<milestone unit="emptyLine"/></p>
+                <p>emberséggel beszélgetett, tudakozódott. Azólta is voltam már nála egyszer és
+                    köszönteti kigyelmeteket általam. Ezeknek jelentése és hiradása mellett
+                            köszöntöm<persName><idno type="KEMKI"> Káposztás
+                        István</idno></persName> sógor uramat, <persName><idno type="KEMKI"
+                            >Maris</idno></persName> es <persName><idno type="KEMKI"
+                        >Susi</idno></persName> nénémaszszonyt, <persName><idno type="KEMKI"
+                            >János</idno></persName> es <persName><idno type="KEMKI"
+                        >József</idno></persName> öcséimet, <persName><idno type="KEMKI">Szücsné
+                            Peretz Mihály</idno></persName> es <persName><idno type="KEMKI">Peretz
+                            Mihalyné</idno></persName> nénémaszszonyokat. Kigyelmeteket pedig az
+                    Istennek kegyelmes gondviselésére ajánlván minden jóknak kívánásával kezeit
+                    csókolom <placeName><idno type="KEMKI">Bécsbe</idno></placeName></p>
+                <milestone unit="emptyLine"/>
+                <closer>
+                    <salute>Kigyelmeteknek hűséges és engedelmes fiok</salute>
+                    <signed><persName>Ferentzy István</persName></signed>
+                </closer>
+                <p>P. S. Ha Levelet írnak titulálják <placeName><idno type="KEMKI"
+                        >Bécsbe</idno></placeName> a Szoltz Griz utcában levő lakatos herberken
+                    dolgozó Ferentzy I.</p>
+                <p>P. S. Ha a vas gattert felszögezte kigyelmed, írja meg hogy sült el.</p>
+                <p>P. S. Köszöntsék <persName><idno type="KEMKI">Pap Istvánt</idno></persName> is,
+                    és mondják meg néki, hogy az idő szűk volta nem engedi, hogy néki is írjak, nem
+                    különben <persName><idno type="KEMKI">Gaskó Jánost</idno></persName> is.</p>
+                <p>Az ujjasom és az köpönyegem <persName><idno type="KEMKI">János</idno></persName>
+                    viselje el.</p>
+                <p>N. B. Aztat is hallottam hogy <persName><idno type="KEMKI">Balas Károly
+                        </idno></persName>valamely állásról leesvén keze és lába eltört.</p>
+            </div>
+            <div><head>Címzés:</head><pb facs="691_20 (3).jpg" type="facsimile"/><placeName><idno
+                        type="KEMKI">Bécsből</idno></placeName> Szabad Privilegizált
+                        <placeName><idno type="KEMKI">Rima-Szombat </idno></placeName>Városában
+                Lakozó <persName><idno type="KEMKI">Ferentzÿ István</idno></persName> Atyámuramnak
+                Fiúi tisztelettel ajánlom. a <placeName><idno type="KEMKI"
+                    >Rima-Szombath</idno></placeName> in <placeName><idno type="KEMKI"
+                    >Ungarn</idno></placeName>. Probatio Calamis</div>
+            <p><note type="critic">Középkori okleveleken a hitelesítés (itt háromszor írták a
+                    lapra)</note></p>
+        </body>
+    </text>
+</TEI>

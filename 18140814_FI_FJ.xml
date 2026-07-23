@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>FERENCZY ISTVÁN – FERENCZY JÓZSEF (1814.08.14)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Békefi </surname>
+                        <forename>Eszter</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Békefi</surname>
+                        <forename>Eszter</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname/>
+                        <forename/>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Szemigán</surname>
+                        <forename>Dorottya</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Proofreader</resp>
+                    <persName>
+                        <surname/>
+                        <forename/>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>Szépművészeti Múzeum<ref type="url"
+                        >https://www.szepmuveszeti.hu/</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Szépművészeti Múzeum</orgName>
+                    <ref type="url">https://www.szepmuveszeti.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="URL">ferenczy.tei.</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A levél Huntéka azonosítója:<idno type="HuntékaID"/>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="hu"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">FERENCZY ISTVÁN – FERENCZY JÓZSEF</head>
+                <head type="subtitle">(Bécs, 1814. augusztus 14.)</head>
+                <!--hiányik ez a kép szkennelni kell-->
+                <milestone unit="emptyLine"/>
+                <pb facs=""/>
+                <opener>
+                    <salute>Kedves <persName><idno type="KEMKI">Öcsécském</idno></persName>!!!
+                    </salute>
+                </opener>
+                <milestone unit="emptyLine"/>
+                <p>Ideje volna már (tudom úgy gondolsz) egyszer Atyafi és Testvéri hűségemnek meg
+                    felelni, én magam is úgy tartom; de ne magyarázd, a’ késedelmességet
+                    bennem-elfelejtkezésnek vagy meg hidegülésnek, sőt inkább ellenkezőleg: mivel
+                    nem akartam csak egy megérkezésemet egy jó egészségemet tudósító levelet írni,
+                    most tehát testvéri parolámnak meg akarván felelni ezen bizonyos
+                    alkalmatosságtól, küldvén levelemet, tudósítlak. Én te tőled, és a’ barátomtól,
+                    annál fogva mindenektől elhagyatattván, mint egy magamon kívül szomorú zokogó
+                    sóhajtáson között elértem Osgyanyon túl való kő hidat és a tarisznyámat letéven
+                    egy kevéssé gondoltam vissza hogy mi történt rajtam a mai nap, és mintegy bánni
+                    kezdettem cselekedetemet, és lankadni kezdett NS indulatom bennem , de ismét
+                    Józanon és egyenesen meg gondolván, hogy ily habzó legyen-é egy férfi szándéka
+                    és hogy te tőled is csak ugyan meg kellene válnom, és hogy te a’ magad leveledbe
+                    is azt írtad hogy túrjuk orrunkkal a földet sat. </p>
+                <pb facs="555_20 (1).jpg" type="facsimile"/>
+                <p>ezeket így hányván-vetvén magamban tarisznyámat felvévén, estére gyalog Losoncra
+                    beértem. Innen más napra kelvén, Balás-Gyarmatra értem, ez a nap volt a
+                    legkeservesebb napom az utazásba, mivel kevés alkalmatosság akadt, és a lábaim
+                    összehólyagosodtak. Itt egy emberséges embernél szállást találtam, akinél a
+                    lábam hólyagjaiban selymet húztam. Jó vacsorát, jó hálást adott, másnap Füves
+                    Gyarmaton túl Szent Györgyre értem, halasra az holott is minekelőtte bementem
+                    volna a faluba, egy emberséges csikós megszólított, hogy van-e jó levelem; mivel
+                    a faluba nagy fogdosás vagyon, inkább maradjak nála odaki, reggel továbbmehetek.
+                    Én a leveleimhez bízván bementem. Másnap dél tájba Verebélynél akadtam egy
+                    Kriegscassirer feleségéhez, aki Posonba ment két kocsin és forsponton, ennek a
+                    szekerére szerencsésen felkaptam és estére Patára értünk, itt a falu bírája
+                    látván, hogy én is a szekéren ülök a’ Kriegscassirerné katonájával együtt és
+                    katonás öltözetem nem volt legalább is egy Komordinernek vélt, tisztességes
+                    extra quartélyt vacsorát rendelt. Vasarnap reggel a forspont várván bennünket
+                    korán megindultunk es mintegy 3 óra tájba Pozsonyba a Veres Ökör <milestone
+                        unit="emptyLine"/></p>
+                <p>vendégfogadóba be szálltunk, itten el búcsúztam a Krigscassiernétül, és a
+                    Katonájától és a’ lakatos herberket fel keresvén, ott háltam ezen éjjel itt
+                    illuminátió tartatott, amelyről már talán olvastál is, az Atyámnak írott
+                    levelemből, másnap, mint egy – nyolc óráig még, a várost járván tovább indultam
+                    és a gránitzon egy budai születésű puskamíves legényhez akadtam, ezzel hol
+                    kocsin, hol gyalog kedden reggel hat óra tájba Bécsbe beérkeztünk és azóta itt
+                    folytatom szép tapasztalással teljes napjaimat. Méltán első helyet érdemel ezek
+                    között az a parádé amely a’ császár haza jövetelével esett amelyről egy kevésse
+                    környülállásosan írok t.i. 15dik júniusban meg érkezven a Sénbrunban hált,
+                    (amely a várostól mint egy másfél óra járás) es ugyan ezen a napon a’ cédulák
+                    minden szegeletekre kiragasztattak hogy holnap azaz 16ik Junÿ senki ne
+                    dolgozzon, semmi féle bor pálinka serház vagy áruló bolt nyitva ne legyen senki
+                    ne lovagoljon vagy kocsizzon , minden gazda kapuja egész nap egész rá következő
+                    éjjel nyitva legyen, hogy a megtódult nép az udvarokban is be mehessen (amelyre
+                    méltó szükség is volt, mivel a számitás szerént ekkor Bécsbe kétszáz ezer
+                    emberrel volt több mint egyébkor)</p>
+                <pb facs="555_20 (2).jpg" type="facsimile"/>
+                <p>más napra kelvén (azaz  június 16-án) korán ki mentek eleibe a grófok, bárók,
+                    magisztrátusok, a burgerek, a német gárda, cseh gárda, a lengyel gárda és egy
+                    regement dragonyos. Kimentek a magyar grófok és uraságok, s a magyar gárda is, a
+                    kik a szépségre s válogatott termetekre és öltözetekre mindeneket meghaladtak,
+                    és a németeknek bámuló szemeiket magukra vették; az itt való magyar grófoknak
+                    csak az inasai olyanok voltak mint egy magyar gárdista magokon ’s lovaikon az
+                    arany ezüst skarlát gránát nyuszt vesztegetése volt. Ki mentek a Császár
+                    testvérei, a korona örököse, egy szóval a princek mind németesen öltözve, de a
+                    Palatinus magyar hazafiságának meg akarván felelni, magyarosan felöltözött és a
+                    Császár mellett ment egyedül maga küszködvén aranyos csikós szerszámmal,
+                    sallangokkal ékesített (és az én gyanításom szerint) az egész parádéba legszebb
+                    fekete vad csikajával; ki ment száz férfies száz leány 10 s 12 esztendős
+                    gyermeki sereg tiszta fehérbe öltözve a’ férfiaknak volt egy-egy olajág a
+                    kezekbe a bal kezekbe pedig egy borostyán koszorú a’ derekuk a királyszín veres
+                    pántlikával általkötve a’ leányoknak egy-egy kis kosár virágokkal tele és a
+                    Császár a merre jött az útjára hánytak. Ezek mind válogatottak <milestone
+                        unit="emptyLine"/></p>
+                <p>voltak a szépségbe az egyenlő termetbe. Ily készülettel bekisértettek a városba
+                    az ágyuk szünet nélkül ropogtak a’ bástyán s végre a császári palotába
+                    bekisértettek. Eljött végre az a sokaktól úgy én tőlem is, nehezen várt estve
+                    is, amelyre a készületek öt hathéttel előtte elkezdődtek épülni, és amelyben
+                    illuminátió tartatott ennek a’ szépségét kiírni lehetetlen kibeszélni nehéz,
+                    hanem közönségesen ezt jegyzem róla, hogy nagy halom lenne az itt levő olajos
+                    poharakból nagy falu lenne az csupán illuminátióra készült épületekből és
+                    állásokból, nagy könyv lenne az itt levő fejül írásokból. Csak drót (ily formán
+                    hajtva: ¬¬¬–o, amely a poharakat tartotta) a lakatosok számítása szerint 40 mása
+                    dolgoztatott fel. Csak a Herceg Lichtenstein hazán18000 olajos pohár volt.
+                    Nevezetesebb illuminátiók voltak az Országházán, a Városházán, Lichtenstein,
+                    Erdődy, Printz Albert, Báró Fritz, Hertzeg Svartzenberg a Burger fegyveres ház,
+                    a fő Theatrum a’ városba, a Leopold Városi Theátrum. A Császárné Anyának a’
+                    háza, Printz Károly, Printz János és a Magyar Gárda ház ezeken kívül sokak
+                    akiknek, vagy a ház urának nevét nem esmérem</p>
+                <pb facs="" type="facsimile"/>
+                <p><!--ez a  kép is hiányzik  -->vagy ott meg nem fordultam vóltak: egyszóval oly
+                    szép és ritka dolog volt ez, a melyet meg maga Bécs sem látott, és nagy idő fog
+                    belé telni, míg valaha ez történik. Aprólékos tapasztalásaim ezek: láttam
+                    kétszer tűzjátékot Stúver Gáspárnak, a mellyről Mátyási is emlékszik. Láttam egy
+                    hét esztendős leányt, amelynek nehézsége 1 mása 51 font volt, a leány fris
+                    egészséges nem igen magos hanem igen kövér nagy feje temérdek mélle, vastag
+                    keze-lába, kék szeme, gesztenye szín göndör haja van. Láttam egy nagy ökröt,
+                    melynek nehézsége 19 mása 50 font magossága 6 suk hosszúsága 9 suk 5 col. Ezen
+                    ökör almás tarka és rövid szarva mint a’ Riskának Bavarus-oszágból hozatott ide.
+                    Láttam egy elefántott láttam egy meglehetős nagyságú amerikai döglött kígyót,
+                    egy tengeri pókot. Láttam az Ánglus lovagolást. Ezeken kívül volna sok aprólékos
+                    írni valóm de annak olvasásával tégedet fárasztani nem akarlak hanem a magam
+                    állapotjáról ezt jegyzem, hogy friss jó egészségem van, nem csömöllök meg. A
+                    Rajz Oskolába is be kezdtem járni, úgy a’ serény, mint a tiszta és regularis
+                    rajzba is senki előmbe nem hágott, a melyről hirtelen nagy ismertségem lett mind
+                    az idegenek, mind kiváltképen a hazafiak előtt: de az itt való rajziskola igen
+                    setét és a’ tiszta rajzolás mellett a’ szemem kezdett romlani, s tehát fel
+                    hagytam véle, mostani munkám a’ műhelybe, szépen készült vásári kályhák, s oly
+                    lakatok, amelyek remekbe vagy talán remekbe sem készülnek R. Szombatban. Detsy
+                    Sámuel urat is felkerestem, és háromszor voltam már nála, velem mindenkor
+                    szívesen beszélget. Egyiket a nagyobbik fiát (mintegy 17 esztendős.)
+                    prokatorságra készíti a’ Kálnai jus keresésére. Utoljára a Császár
+                    illuminátiójára készült állások mind elrontattak és ujak építtetek a muszka
+                    Császárnak 15-dik szeptemberben való ide jövetelére. Ezek jelentese s híradása
+                    mellet köszöntöm Lipcsei és Korponay uraimékat </p>
+                <milestone unit="emptyLine"/>
+                <closer>
+                    <salute>Tégedet pedig az én csókjaimmal meg csókolván ajánlak a kegyelmes Isten
+                        gondviselésére a ki adja teneked a tanulásnak lelket és könnyítse
+                        gondjaidnak terhet s maradok Teneked holtig szerető testvéred </salute>
+                    <signed><persName>Ferentzy István.</persName></signed>
+                </closer>
+                <p>Ha levelet írsz, tituláld Bécsbe a Szoltz Grisz utcába levő lakatos herberkben
+                    dolgozó F. I. </p>
+            </div>
+            <div>
+                <head>Címzés:</head>
+                <pb facs="555_20 (3).jpg" type="facsimile"/>
+                <p>Bécsből, A Sáros Nagy Pataki Reformáta Oskolában tanuló rimaszombati születésű
+                    Ferentzÿ Jósef özsémnek atyafiui hűségből ajánlom a Sáros N. Patak.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

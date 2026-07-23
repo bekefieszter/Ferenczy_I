@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>FERENCZY ISTVÁN – id. FERENCZY ISTVÁN ÉS KÁLNAI MÁRIA (1814.08.14)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Békefi </surname>
+                        <forename>Eszter</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Békefi</surname>
+                        <forename>Eszter</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname/>
+                        <forename/>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Szemigán</surname>
+                        <forename>Dorottya</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Proofreader</resp>
+                    <persName>
+                        <surname/>
+                        <forename/>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>Szépművészeti Múzeum<ref type="url"
+                        >https://www.szepmuveszeti.hu/</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Szépművészeti Múzeum</orgName>
+                    <ref type="url">https://www.szepmuveszeti.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="URL">ferenczy.tei.</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A levél Huntéka azonosítója:<idno type="HuntékaID"/>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="hu"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">FERENCZY ISTVÁN – id. FERENCZY ISTVÁN ÉS KÁLNAI MÁRIA</head>
+                <head type="subtitle">(Bécs, 1814. augusztus 14.)</head>
+                <milestone unit="emptyLine"/>
+                <pb facs="692_20 (1).jpg"/>
+                <opener>
+                    <salute>Kedves Atyámuram s Anyámasszony!</salute>
+                </opener>
+                <milestone unit="emptyLine"/>
+                <p>Szives óhajtásom, hogy ezen levelecském a legfrissebb egészségben találja
+                    kigyelmeteket, melynek alkalmatosságával tudósítom kigyelmeteket állapotom
+                    felől.</p>
+                <p>Hozzám utasított levelüket csakhamar kezemhez vettem, amelyből értettem
+                    mindnyájuknak friss, jó egészségüket. Azóta (némely tapasztalásaimnak tudtokra
+                    adása végett) mindig igyekeztem egynéhány sorból álló levelet írni, most
+                    annyival is inkább, mivel ha ezen posta az én levelem nélkül menne haza, vagy
+                    véle való barátságtalanságomnak, vagy lustaságomnak tulajdonítanák. Ami
+                    állapotomat és egészségemet illeti, a legfrissebb egészségben vagyok,
+                    mindenekfelett a csömörtől nem félek (hacsak a magam erszényin meg nem kapom). A
+                    műhelyemet pedig változtattam, és mindenféle szép munka jön a kezembe, szépen
+                    készült vásári kályhák és oly lakatok, amelyek remekbe vagy talán remekbe sem
+                    készültek R.Sz-on.</p>
+                <p>Még az első levelemben írtam homályba a császár jöveteléről, hanem most, bár
+                    későre maradt is, írhatok a megérkezéséről. Ugyanis június 15.-én megérkezvén, a
+                    Sonbrúnban hált, (amely a várostól mintegy másfél óra járás) és ugyanezen a
+                    napon</p>
+                <pb facs="692_20 (2).jpg" type="facsimile"/>
+                <p>a cédulák minden szegletekre kiragasztattak, hogy holnap azaz június 16-án senki
+                    ne dolgozzon, semmiféle bor-, pálinka-, sörház vagy áruló bolt nyitva ne legyen;
+                    senki ne lovagoljon vagy kocsizzon, minden gazda kapuja egész nap, egész
+                    rákövetkező éjjel nyitva legyen, hogy a megtódult nép az udvarokba is
+                    bemehessen. Másnapra kelvén (azaz június 16-án) korán kimentek elébe az
+                    uraságok, gazdagon felöltözve és a császárt bekísérték a városba. Kiment meg
+                    elejébe mintegy kétszáz számból álló 10-12 esztendős, fele férfi és fele leány
+                    személy, mind tiszta fehérbe öltözve; a férfiaknak volt egy-egy olajág a
+                    kezükbe, a leányoknak pedig egy-egy kis kosár, amely virágokkal volt tele, és a
+                    császár, amerre jött, a virágokat az útjára hányták. Már nyolc órakor a városban
+                    bent volt, és délután egy óráig fel s alá jártak a városba. Az ágyúk a bástyán
+                    szüntelen ropogtak s végre a rezidenciába bekísértettek. Különös megjegyzésre
+                    méltók a szép öltözetbe a magyar uraságok, (kik különben is több számmal voltak,
+                    mint a németek). Ezeknek csak az inasai olyanok voltak, mint egy magyar gárdi;
+                    magukon s lovaikon az arany, ezüst, skarlát, gránát, nyuszt vesztegetése volt. A
+                    palatinus is magyar hazafiságának meg akarván felelni, magyarosan felöltözött s
+                    a császár mellett a többi princekkel ment.<milestone unit="emptyLine"/></p>
+                <p>Eljött végre az a sokaktól, úgy én tőlem is nehezen várt estre is, amelyben
+                    illumináció tartatott, amely írásába nem is fogok, hanem röviden ezt jegyzem
+                    róla, hogy nagy halom lenne az itt levő olajos poharakból, nagy falu lenne az
+                    csupán illuminációra készült épületekből, nagy könyv lenne a felülírásokból.
+                    Csak drót (ilyformán hajtva: –O), mely a poharakat tartotta, mintegy 40 mázsa
+                    dolgoztatott fel, csak a herczeg Lichtenstein házán 18000 olajos pohár volt,
+                    egyszóval oly szép és ritka dolog volt az, amelyet még maga Bécs sem látott, és
+                    nagy idő fog bele telni, míg valaha ez történik.</p>
+                <p>Láttam tűzjátékit Stuver Gáspárnak, amelyről Mátyási is emlékszik; láttam még egy
+                    hét esztendős leányt, amelynek nehézsége 151 font volt. Láttam egy nagy ökröt 19
+                    mázsa és fél volt, magassága hat suk, hosszúsága 9 suk, öt coll. Láttam egy
+                    elefántot. Az a leány, amelyről feljebb írtam, friss, egészséges, nem igen
+                    magas, hanem igen kövér, nagy feje, temérdek melle, vastag keze, lába van. Most
+                    ezekről többet nem írhatok az időszűk volta miatt, hanem köszöntöm Káposztás
+                    István sógoruramat, Maris és Susi nénémasszonyokat, János öcsémet és mindeneket,
+                    akik rólam jó emlékezettel vannak.</p>
+                <milestone unit="emptyLine"/>
+                <closer>
+                    <salute>Kegyelmeteket pedig ajánlom a kegyelmes Isten gondviselésébe és maradok
+                        kegyelmeteknek hűséges és engedelmes fiuk: </salute>
+                    <signed><persName>Ferenczy István</persName></signed>
+                </closer>
+                <pb facs="692_20 (3).jpg" type="facsimile"/>
+                <p>N. B. Az <gap unit="word" extent="1" reason="illegible"/> a vármegyére első
+                    decemberbe be kell adni, ha valami lesz. P. S. Ismét köszönti Detsy úr
+                    kegyelmeteket. P. S. Detsy úr felől ezt jegyzem meg, hogy van egy (mintegy 17
+                    esztendős fia), prókátorságra készíti a Kálnay jus keresésére.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

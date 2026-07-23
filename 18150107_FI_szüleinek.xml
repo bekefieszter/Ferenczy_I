@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>FERENCZY ISTVÁN – id. FERENCZY ISTVÁN ÉS KÁLNAI MÁRIA (1815.01.07)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Békefi </surname>
+                        <forename>Eszter</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Békefi</surname>
+                        <forename>Eszter</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname/>
+                        <forename/>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-specification</resp>
+                    <persName>
+                        <surname>Szemigán</surname>
+                        <forename>Dorottya</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Proofreader</resp>
+                    <persName>
+                        <surname/>
+                        <forename/>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>Szépművészeti Múzeum<ref type="url"
+                        >https://www.szepmuveszeti.hu/</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Szépművészeti Múzeum</orgName>
+                    <ref type="url">https://www.szepmuveszeti.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                </availability>
+                <idno type="URL">ferenczy.tei.</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A levél Huntéka azonosítója:<idno type="HuntékaID"/>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="hu"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">FERENCZY ISTVÁN – id. FERENCZY ISTVÁN ÉS KÁLNAI MÁRIA</head>
+                <head type="subtitle">(Bécs, 1815. január 7.)</head>
+                <milestone unit="emptyLine"/>
+                <pb facs="693_20 (1).jpg"/>
+                <opener>
+                    <salute>Kedves Atyám uraim és Anyámasszony!</salute>
+                </opener>
+                <milestone unit="emptyLine"/>
+                <p>E folyó hónapnak hatodik napján Csordás Jánossal (sok egymást keresésünk után)
+                    összeakadtunk, és én kérdezkedődvén felőle, hogy mikor kapott levelet vagy mikor
+                    fog küldeni, azt felelte, hogy a delizsánszot minden órán várja, amidőn levelet
+                    fog kapni és ismét másikat fog küldeni. Én is azért minden haladék nélkül
+                    pennára kaptam, hogy én is ezen alkalmatossággal tudósítsam kegyelmeteket,
+                    annyival is inkább, hogy az ittlétem felől is kétségesek talán, mivel a Likéri
+                    Sámueltől küldött levelemre semmi választ is nem kaptam.</p>
+                <p>Ami az állapotomat illeti, friss, jó egészségem vagyon, nincsenek semmi olyan
+                    különös bajaim, semmi újságnak írásával nem kedveskedhetem, hanem annak mégis
+                    örülök, hogy ilyen szép részében az időnek Bécsben lehetek, amely állapotban még
+                    sohasem volt, hogy egyszerre annyi fejedelmek összegyűltek volna benne. Ezen
+                    jelentések után köszöntöm nagyanyámasszonyékat, Káposztás István sógor uramat,
+                    Maris és Susi nénémasszonyokat, János és József öcséimet, Pap István barátomat
+                    és mindeneket, akik rólam jó emlékezettel vannak. </p>
+                <milestone unit="emptyLine"/>
+                <closer>
+                    <salute>Kigyelmeteket pedig a kegyelmes Isten gondviselésébe ajánlván, maradok
+                        kigyelmeteknek hűséges és engedelmes fiok: </salute>
+                    <signed><persName>Ferenczy István</persName></signed>
+                </closer>
+                <pb facs="693_20 (2).jpg" type="facsimile"/>
+                <p>P. S. Köszönti általam kigyelmezeket Detsy Sámuel úr is, nemkülönben Csapó Sámuel
+                    sógor uramat is és azt íratja általam, hogy azon levelet, amelyet még az őszön
+                    írt, kezéhez kapta, amelyből értette a fiai iránt való szándékát, de szándékát
+                    nem teljesítheti a következő okokon: először, mivel most ismár 16 héttől fogva
+                    való nyavalyában fekszik, (már mostanában ugyanis kevéssé jobban van már);
+                    másodszor, magának is aprólékos gyermekei lévén, most is egy Pozsonyban, a másik
+                    Komáromban tanul, akik mind sok költségben vannak. Utoljára és kiváltképpen az,
+                    hogy, mint egy fogadása tartja, hogy semmi atyafival soha jót nem teszen;
+                    sokakat a sárból kiemelt, nevezetesen Cseh Sándort, és még bosszúval illeti
+                    érette (amelyről való panasszal a papirost sem foglalom most), de mind igaz
+                    okok. </p>
+                <p>P. S. Akármelyik műhelyben, akárhol laktam is én, a levelet titulálják a lakatos
+                    herbergre 218 numerus alá, az atyamester a kezéhez vevén a levelet, annak a
+                    nevét, akinek szól, a táblára kiírja, és az ember csak a táblát olvassa s
+                    megtudja, ha van-e levele, vagy nincs.</p>
+                <p><seg type="handShift"
+                        corresp="Szabad Ts. Királyi Bécs városába a 218dik Numerus alatt levő Lakatos Herberkhez tartozó Lakatos Legény Ferentzy István Fiamnak atyai szeretetbűl ajánlom"
+                    /></p>
+            </div>
+            <div>
+                <head>Címzés:</head>
+                <pb facs="693_20 (2).jpg" type="facsimile"/>
+                <p>Szabad Privilegizált Rima-Szombath Városában Lakozó Ferentzÿ István Atyámuramnak
+                    alázatos fiúi tiszteletem mellett ajánlom. a Rima-Szombath </p>
+            </div>
+        </body>
+    </text>
+</TEI>
