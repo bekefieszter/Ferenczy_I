@@ -127,10 +127,12 @@
                             type="KEMKI">császár</idno></persName>
                     <placeName><idno type="KEMKI">Olaszországban</idno></placeName>,
                             <placeName><idno type="KEMKI">Mantovába</idno></placeName> van.</p>
-                <p><persName><idno type="KEMKI">Ferenczy Sámuel </idno></persName>ezelőtt kilenc
-                    héttel idejött, négy hétig munkába volt, de neki itten nem tetszett, ismét
-                    vissza <placeName><idno type="KEMKI">Magyarországba</idno></placeName> ment,
-                    hová-hová nem, azt nem tudom, mivel elválásunkkor maga sem tudta megmondani.</p>
+                <p><persName><idno type="KEMKI">Ferenczy Sámuel </idno></persName><seg
+                        type="handShift" corresp="Ismeretlen">unokatestvére, Ferenczy Teréza
+                        apja</seg>ezelőtt kilenc héttel idejött, négy hétig munkába volt, de neki
+                    itten nem tetszett, ismét vissza <placeName><idno type="KEMKI"
+                            >Magyarországba</idno></placeName> ment, hová-hová nem, azt nem tudom,
+                    mivel elválásunkkor maga sem tudta megmondani.</p>
                 <p>Itt a tél magát igen korán elkezdette, és ezelőtt 3 s 4 héttel már kemény idők
                     jártak, úgyhogy imitt-amott az utakon mintegy öt személy meg is fagyott.
                     Némelyek a nagy fuvatagokban befúltak.<milestone unit="emptyLine"/></p>
@@ -160,9 +162,8 @@
                 </closer>
                 <p>A levél írásba egy nagy hibát tettem, de az idő szűk volta nem engedte, hogy
                     másként írjam.</p>
-                <p><anchor
-                        xml:id="József öcsémnek írják meg, hogy épen ezen a napon küldök ő neki is egy levelet Kassára, ha meg nem kapja, keresse a postán._1"
-                    /></p>
+                <p>Jósef öcsémnek írják meg, hogy épen ezen a napon küldök ő neki is egy levelet
+                    Kassára, ha meg nem kapja, keresse a postán._1<anchor xml:id="balra -90"/></p>
             </div>
         </body>
     </text>
